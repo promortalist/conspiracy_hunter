@@ -1,0 +1,5246 @@
+David Bellos
+Jacques Tati His Life & Art
+dict_keys([])
+-------------------------------------------------------
+David Bellos
+Jacques Tati
+dict_keys([])
+-------------------------------------------------------
+Joseph Atwill
+Shakespeare's Secret Messiah
+dict_keys(['queen'])
+-------------------------------------------------------
+Laurence Lampert
+Nietzsche's Task
+dict_keys([])
+-------------------------------------------------------
+Thomas Habinek
+Ancient Rhetoric
+dict_keys([])
+-------------------------------------------------------
+Autor zbiorowy
+Pismo Święte Starego i Nowego Testamentu
+dict_keys([])
+-------------------------------------------------------
+Brian Clegg
+30-Second Energy
+dict_keys(['cold', 'queen'])
+-------------------------------------------------------
+Bowers, Faubion, 1917-
+The Classic tradition of haiku : an anthology
+dict_keys(['breath', 'throat'])
+-------------------------------------------------------
+J. M. Roberts and O. A. Westad
+The Penguin History of the World
+dict_keys(['cold war', 'cold', 'Antarctica', 'ice', 'arctic'])
+-------------------------------------------------------
+David Herbert Lawrence
+ZAKOCHANE KOBIETY
+dict_keys([])
+-------------------------------------------------------
+David Herbert Lawrence
+Synowie i kochankowie
+dict_keys([])
+-------------------------------------------------------
+Jeffrey M. Hunt
+Classics from Papyrus to the Internet: An Introduction to Transmission and Reception (Ashley and Peter Larkin Series in Greek and Roman Culture)
+dict_keys([])
+-------------------------------------------------------
+Jonathan I. Israel
+Enlightenment Contested
+dict_keys([])
+-------------------------------------------------------
+Jonathan I. Israel
+Radical Enlightenment
+dict_keys(['coffee', 'princess'])
+-------------------------------------------------------
+Jonathan I. Israel
+The Enlightenment that Failed
+dict_keys([])
+-------------------------------------------------------
+Stephen Koch
+Stargazer The Life, World and Films of Andy Warhol
+dict_keys(['cool', 'breathing', 'breath', 'cold', 'frozen'])
+-------------------------------------------------------
+Shan Gao
+Understanding Quantum Physics: An Advanced Guide for the Perplexed
+dict_keys([])
+-------------------------------------------------------
+Green Scum
+Nuselski punk
+dict_keys([])
+-------------------------------------------------------
+Satyanarayana, U
+Biochemistry
+dict_keys([])
+-------------------------------------------------------
+Greg Restall
+Logical Methods
+dict_keys([])
+-------------------------------------------------------
+Casiday Augustine
+The Orthodox Christian World
+dict_keys(['queen'])
+-------------------------------------------------------
+Jules Gill-Peterson;
+A Short History of Trans Misogyny
+dict_keys([])
+-------------------------------------------------------
+Hanna Levenson
+Brief Dynamic Therapy (Theories of Psychotherapy Series®)
+dict_keys([])
+-------------------------------------------------------
+Michael Baigent
+Ślady sprzed milionów lat
+dict_keys([])
+-------------------------------------------------------
+John Robertson
+Enlightenment: A Very Short Introduction
+dict_keys(['cold war', 'cold', 'ice', 'coffee'])
+-------------------------------------------------------
+Alvarez, Al
+The Savage God
+dict_keys(['throat', 'air', 'cool', 'ice'])
+-------------------------------------------------------
+Dan Falk
+Universe on a T-Shirt
+dict_keys(['air', 'ice'])
+-------------------------------------------------------
+Aaron A. Reed
+50 Years of Text Games
+dict_keys([])
+-------------------------------------------------------
+Tullio Kezich
+Federico Fellini
+dict_keys(['cold', 'cold war', 'coffee', 'cool'])
+-------------------------------------------------------
+Tro, Nivaldo;
+30-Second Chemistry
+dict_keys(['cool', 'air'])
+-------------------------------------------------------
+Elizabeth A. Phelps
+Psychological Science (Seventh Edition)
+dict_keys(['queen'])
+-------------------------------------------------------
+John W Loftus
+Varieties of Jesus Mythicism: Did He Even Exist?
+dict_keys([])
+-------------------------------------------------------
+Edgar Allan Poe
+Opowiadania
+dict_keys([])
+-------------------------------------------------------
+test
+test
+dict_keys(['queen', 'breath'])
+-------------------------------------------------------
+test
+test
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+test
+test
+dict_keys(['frozen'])
+-------------------------------------------------------
+Dawn M. McBride
+Cognitive Psychology. Second Edition
+dict_keys([])
+-------------------------------------------------------
+Thorsrud, Harald
+Ancient Scepticism
+dict_keys([])
+-------------------------------------------------------
+Mark Michaels
+Designer Relationships
+dict_keys(['princess'])
+-------------------------------------------------------
+Newton, Isaac, Sir
+The Principia: The Authoritative Translation
+dict_keys([])
+-------------------------------------------------------
+Michael Kaminski
+The Secret History of Star Wars
+dict_keys(['princess', 'coffee', 'air'])
+-------------------------------------------------------
+Ingthorsson, R. D.; 
+McTaggart's Paradox
+dict_keys([])
+-------------------------------------------------------
+David Lieberman
+You Can Read Anyone
+dict_keys(['cool'])
+-------------------------------------------------------
+Gad Saad
+The Saad Truth about Happiness
+dict_keys([])
+-------------------------------------------------------
+Paul Voice
+Rawls Explained
+dict_keys([])
+-------------------------------------------------------
+Bernd Rosslenbroich
+A New Look at the Major Transitions in Evolution
+dict_keys([])
+-------------------------------------------------------
+Jordan Minor
+Video Game of the Year
+dict_keys(['hockey', 'air', 'cool'])
+-------------------------------------------------------
+Dan Brown
+Robert Langdon 03 - Zaginiony symbol
+dict_keys([])
+-------------------------------------------------------
+Dan Brown
+Robert Langdon 01 - Anioły i demony
+dict_keys([])
+-------------------------------------------------------
+Dan Brown
+Robert Langdon 04 - Inferno
+dict_keys([])
+-------------------------------------------------------
+Dan Brown
+How to Write a Book
+dict_keys(['cool', 'breathing'])
+-------------------------------------------------------
+Dan Brown
+Cyfrowa twierdza
+dict_keys([])
+-------------------------------------------------------
+Dan Brown
+Zwodniczy Punkt
+dict_keys([])
+-------------------------------------------------------
+Dan Brown
+Robert Langdon 05 - Początek
+dict_keys([])
+-------------------------------------------------------
+Dan Brown
+Robert Langdon 02 - Kod Leonarda da Vinci
+dict_keys([])
+-------------------------------------------------------
+O'Rourke, Rob Anthony
+$1,000,000 Web Designer Guide: A Practical Guide for Wealth and Freedom as an Online Freelancer
+dict_keys(['cold'])
+-------------------------------------------------------
+Richard Schneeman
+How to Open Source
+dict_keys(['coffee', 'cool'])
+-------------------------------------------------------
+James Joyce
+Finnegans Wake
+dict_keys(['throat'])
+-------------------------------------------------------
+James Joyce
+Portret artysty w wieku młodzieńczym
+dict_keys([])
+-------------------------------------------------------
+Oliver Theobald
+Generative AI Art: A Beginner’s Guide to 10x Your Output with Killer Text Prompts (Midjourney, DALL-E 2, Craiyon) (AI, Data Science, Python & Statistics for Beginners)
+dict_keys(['coffee'])
+-------------------------------------------------------
+Gazzaniga, Michael S.
+Tales from Both Sides of the Brain : A Life in Neuroscience (9780062228819)
+dict_keys([])
+-------------------------------------------------------
+Woolf, Jenny
+The Mystery of Lewis Carroll: Discovering the Whimsical, Thoughtful, and Sometimes Lonely Man Who Created "Alice in Wonderland"
+dict_keys(['breath', 'ice'])
+-------------------------------------------------------
+Joseph Lumpkin
+The War Scroll; The War of the Sons of Light Against the Sons of Darkness; History, Symbols, Texts, and Commentary
+dict_keys([])
+-------------------------------------------------------
+Cornelius G. Hunter
+Bóg Darwina. Ewolucjonizm i problem zła
+dict_keys([])
+-------------------------------------------------------
+Diane Jeske;
+The Routledge Handbook of Philosophy of Friendship
+dict_keys([])
+-------------------------------------------------------
+Moeller, Hans-Georg.;
+Luhmann Explained
+dict_keys([])
+-------------------------------------------------------
+Paul Bergman;Sara J. Berman;
+Criminal Law Handbook, The
+dict_keys([])
+-------------------------------------------------------
+Mark Rowlands
+The New Science of the Mind
+dict_keys(['suck', 'breath', 'air', 'cold'])
+-------------------------------------------------------
+Iddo Landau;
+The Oxford Handbook of Meaning in Life
+dict_keys([])
+-------------------------------------------------------
+Jorge N. Ferrer;
+Love and Freedom
+dict_keys([])
+-------------------------------------------------------
+Emil Cioran
+Zeszyty 1957-1972
+dict_keys([])
+-------------------------------------------------------
+Emil Cioran
+Na szczytach rozpaczy
+dict_keys([])
+-------------------------------------------------------
+Stefania Maurizi
+Secret Power - Wikileaks and its enemies
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+Cass R. Sunstein
+The World According to Star Wars
+dict_keys(['ice', 'princess'])
+-------------------------------------------------------
+Gabrielle M. Finn
+30-Second Anatomy
+dict_keys(['breathing'])
+-------------------------------------------------------
+Simon Louvish
+Stan and Ollie: The Double Life of Laurel and Hardy
+dict_keys(['frozen', 'queen', 'ice', 'ice-cream', 'cold', 'air'])
+-------------------------------------------------------
+Ron Miller
+The Big Backyard: The Solary System Beyond Pluto
+dict_keys(['ice', 'air', 'frozen', 'cold'])
+-------------------------------------------------------
+Mary Burton
+I'm Watching You
+dict_keys(['breathing', 'breaths', 'air', 'cold', 'breath'])
+-------------------------------------------------------
+Irvin D. Yalom
+Existential Psychotherapy
+dict_keys([])
+-------------------------------------------------------
+Daniel Hillis
+The Pattern On The Stone (SCIENCE MASTERS)
+dict_keys(['air', 'breath'])
+-------------------------------------------------------
+Jonas Čeika
+How to Philosophize with a Hammer and Sickle
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+George Saunders
+Lincoln w Bardo
+dict_keys([])
+-------------------------------------------------------
+Napoleon A. Chagnon
+Noble Savages
+dict_keys([])
+-------------------------------------------------------
+B.A. Paris
+Za zamkniętymi drzwiami
+dict_keys([])
+-------------------------------------------------------
+Brown, Peter C.
+Make It Stick
+dict_keys(['cold', 'air', 'chill', 'ice', 'freeze'])
+-------------------------------------------------------
+Douglas Morrey
+The Legacy of the New Wave in French Cinema
+dict_keys(['cafe'])
+-------------------------------------------------------
+Federico Fellini
+I, Fellini
+dict_keys([])
+-------------------------------------------------------
+Neural Novelist
++ Unleashing the Power of ChatGPT-4: Strategies for Building a Personal Income Stream
+dict_keys([])
+-------------------------------------------------------
+Arthur C. Danto
+Andy Warhol
+dict_keys(['cold war', 'cold', 'air'])
+-------------------------------------------------------
+Robert Baines;
+Philosophical Allusions in James Joyce's Finnegans Wake
+dict_keys([])
+-------------------------------------------------------
+Jonathan Beale,Ian James Kidd
+Wittgenstein and Scientism
+dict_keys(['queen'])
+-------------------------------------------------------
+Robert Brooker DO NOT USE;
+ISE EBook Online Access for Genetics: Analysis and Principles
+dict_keys([])
+-------------------------------------------------------
+Emil Schürer
+A History of the Jewish People in the Time of Jesus Christ: Two Divisions in Five Volumes
+dict_keys([])
+-------------------------------------------------------
+E. Cornell Way;
+Knowledge Representation and Metaphor
+dict_keys(['cold'])
+-------------------------------------------------------
+Christine Schwanecke
+A Narratology of Drama
+dict_keys([])
+-------------------------------------------------------
+Otvio Bueno;Scott A. Shalkowski;
+The Routledge Handbook of Modality
+dict_keys(['cold'])
+-------------------------------------------------------
+Riccardo Chiaradonna;
+Ontology in Early Neoplatonism
+dict_keys([])
+-------------------------------------------------------
+Christoph Adami
+Introduction to Artificial Life
+dict_keys(['breath', 'frozen', 'queen', 'air'])
+-------------------------------------------------------
+Gary Jansen
+The Infernos of Dante and Dan Brown
+dict_keys(['coffee', 'ice', 'air', 'cold'])
+-------------------------------------------------------
+Derek Bickerton
+Adam's Tongue: How Humans Made Language, How Language Made Humans
+dict_keys(['ice'])
+-------------------------------------------------------
+Martin Davis;
+The Universal Computer
+dict_keys(['frozen', 'cold', 'queen'])
+-------------------------------------------------------
+Rene Rojas;Bhaskar Sunkara;Jonah Walters;
+The Good Die Young: The Verdict on Henry Kissinger
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Johannes Breuer, Daniel Pietschmann, Benny Liebold, Benjamin P. Lange
+Evolutionary Psychology and Digital Games
+dict_keys([])
+-------------------------------------------------------
+Valentin Malinov
+Theory of Everything in Physics and the Universe
+dict_keys([])
+-------------------------------------------------------
+Martin Yanev
+Building AI Applications with Chat GPT APIs
+dict_keys(['air'])
+-------------------------------------------------------
+Godden, Richard; 
+William Faulkner
+dict_keys(['fellatio', 'air', 'cold', 'breath', 'breathing'])
+-------------------------------------------------------
+Jason Colavito
+Jason and the Argonauts through the Ages
+dict_keys(['queen', 'breathing', 'throat', 'Siberia', 'ice', 'arctic'])
+-------------------------------------------------------
+Creed, Barbara;
+Darwin's Screens
+dict_keys(['freeze'])
+-------------------------------------------------------
+Daniel Reilly
+Math for Security
+dict_keys(['cool'])
+-------------------------------------------------------
+Mark Timmons;
+Oxford Studies in Normative Ethics Volume 13
+dict_keys([])
+-------------------------------------------------------
+Ezra Pound
+Poems 1918-21, Including Three Portraits and Four Cantos
+dict_keys(['breath', 'air', 'cold'])
+-------------------------------------------------------
+Alexander Bird
+Philosophy of Science
+dict_keys(['cold war', 'cold', 'air'])
+-------------------------------------------------------
+Adam Winn
+Mark and the Elijah-Elisha Narrative: Considering the Practice of Greco-Roman Imitation in the Search for Markan Source Material
+dict_keys(['princess', 'air', 'queen'])
+-------------------------------------------------------
+Adam Winn
+Reading Mark’s Christology under Caesar
+dict_keys([])
+-------------------------------------------------------
+Don S. Lemons
+Mere Thermodynamics
+dict_keys(['coffee'])
+-------------------------------------------------------
+Varma, Jayant
+Pro Bash Programming
+dict_keys([])
+-------------------------------------------------------
+David Damrosch
+Around the World in 80 Books
+dict_keys(['air', 'princess'])
+-------------------------------------------------------
+Saurabh Chandrakar
+Python for Everyone: Learn and polish your coding skills in Python
+dict_keys([])
+-------------------------------------------------------
+Holbach, Paul Henri Thiry;
+The System of Nature
+dict_keys([])
+-------------------------------------------------------
+Holbach, Paul Henri Thiry;
+The System of Nature
+dict_keys(['queen'])
+-------------------------------------------------------
+Holbach, Paul Henri Thiry;
+The System of Nature
+dict_keys(['coffee'])
+-------------------------------------------------------
+Goldsmith, Kenneth
+I'll Be Your Mirror: The Selected Andy Warhol Interviews
+dict_keys(['air', 'freeze', 'cold', 'cool'])
+-------------------------------------------------------
+S.T. Joshi
+The Original Atheists
+dict_keys(['air'])
+-------------------------------------------------------
+Forest Lee
+Someone's Watching You!: From Micropchips in your Underwear to Satellites Monitoring Your Every Move, Find Out Who's Tracking You and What You Can Do about It
+dict_keys(['coffee', 'cool'])
+-------------------------------------------------------
+John W. Loftus
+How to Defend the Christian Faith: Advice From an Atheist
+dict_keys([])
+-------------------------------------------------------
+Jack Reynolds;Ashley Woodward;Felicity Joseph;
+The Bloomsbury Handbook of Existentialism
+dict_keys([])
+-------------------------------------------------------
+Brian Greene
+Do końca czasu
+dict_keys([])
+-------------------------------------------------------
+Jonathan Clements
+A Brief History of China: Dynasty, Revolution and Transformation: From the Middle Kingdom to the People's Republic
+dict_keys(['breath', 'freeze', 'cold'])
+-------------------------------------------------------
+Freeman, Neil;
+Film Noir Photography
+dict_keys([])
+-------------------------------------------------------
+John Shelby Spong
+Liberating the Gospels: Reading the Bible with Jewish Eyes
+dict_keys(['cool'])
+-------------------------------------------------------
+Claudia Baracchi;
+The Bloomsbury Companion to Aristotle
+dict_keys(['breath'])
+-------------------------------------------------------
+Martin Fitzgerald
+Orson Welles: The Pocket Essential Guide
+dict_keys([])
+-------------------------------------------------------
+Lewis Carroll
+Selected Mathematical Works
+dict_keys(['air'])
+-------------------------------------------------------
+Lewis Carroll
+Complete Works of Lewis Carroll
+dict_keys(['air', 'cool', 'cold', 'throat', 'breath', 'queen'])
+-------------------------------------------------------
+Lewis Carroll
+The annotated Hunting of the snark: the full text of Lewis Carroll's great nonsense epic The hunting of the snark
+dict_keys(['ice', 'air'])
+-------------------------------------------------------
+Lewis Carroll
+The Annotated Alice
+dict_keys(['queen', 'cold', 'air'])
+-------------------------------------------------------
+Lewis Carroll
+The annotated Hunting of the snark: the full text of Lewis Carroll's great nonsense epic The hunting of the snark
+dict_keys(['ice', 'air'])
+-------------------------------------------------------
+Lewis Carroll
+Alice's Adventures in Wonderland and Through the Looking-Glass
+dict_keys(['queen'])
+-------------------------------------------------------
+J. Clark Scott
+But How Do It Know?
+dict_keys(['cold', 'air', 'cool', 'ice'])
+-------------------------------------------------------
+Robert M. Price
+The Da Vinci Fraud: Why the Truth Is Stranger Than Fiction
+dict_keys(['queen'])
+-------------------------------------------------------
+E. M. Cioran
+The Trouble With Being Born
+dict_keys([])
+-------------------------------------------------------
+Jim Stephens
+The Language of AI: Exploring the Power of ChatGPT
+dict_keys([])
+-------------------------------------------------------
+Andrew Mallett
+Mastering Linux Shell Scripting
+dict_keys([])
+-------------------------------------------------------
+Nick Morgan
+JavaScript Crash Course (for True Epub)
+dict_keys([])
+-------------------------------------------------------
+Karol Darwin
+O powstawaniu gatunków
+dict_keys([])
+-------------------------------------------------------
+Scientific American Editors
+The Higgs Boson: Searching for the God Particle
+dict_keys([])
+-------------------------------------------------------
+Michael S A Graziano
+Rethinking Consciousness
+dict_keys([])
+-------------------------------------------------------
+Sceski, John H.;
+Popper, Objectivity and the Growth of Knowledge
+dict_keys([])
+-------------------------------------------------------
+John Gregory Betancourt
+Short Things
+dict_keys(['cold', 'frozen', 'air', 'ice', 'breathing', 'throat', 'breaths'])
+-------------------------------------------------------
+Andrei
+Coding to Excellence
+dict_keys([])
+-------------------------------------------------------
+Phil Torres
+The End
+dict_keys(['ice', 'cold war', 'cold', 'air'])
+-------------------------------------------------------
+Phil Torres
+The End: What Science and Religion Telll Us about the Apocalypse
+dict_keys(['ice', 'cold war', 'cold', 'air'])
+-------------------------------------------------------
+Tracy L. Bealer
+Neil Gaiman and Philosophy: Gods Gone Wild!
+dict_keys(['air'])
+-------------------------------------------------------
+Edward O. Wilson
+On Human Nature: With a New Preface
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+4 Tajemnica jeziora
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+5 Siostrzyczka
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+Kłopoty to moja specjalność - opowiadania
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+Topielica
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+6 Długie pożegnanie
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+1 Głęboki sen
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+Morderca w deszczu - opowiadania
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+8 Tajemnice Poodle Springs
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+7 Playback
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+Bay City Blues - opowiadania
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+3 Wysokie okno
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+Czysta robota - opowiadania
+dict_keys([])
+-------------------------------------------------------
+Raymond Chandler
+2 Żegnaj Laleczko
+dict_keys([])
+-------------------------------------------------------
+Willis E. McNelly (ed.)
+Dune X] The Dune Encyclopedia
+dict_keys(['frozen'])
+-------------------------------------------------------
+Tee Morris
+Discord For Dummies
+dict_keys([])
+-------------------------------------------------------
+D.M. Armstrong
+B000FA5VZO
+dict_keys([])
+-------------------------------------------------------
+Brigid Delaney
+Zachowaj spokój. Stoicyzm w praktyce na dzisiejsze czasy
+dict_keys([])
+-------------------------------------------------------
+Adrienne Mayor
+Gods and Robots
+dict_keys(['princess'])
+-------------------------------------------------------
+Iris Murdoch
+Sartre
+dict_keys(['cold'])
+-------------------------------------------------------
+Walter Hickey
+You Are What You Watch: How Movies and TV Affect Everything
+dict_keys(['cool', 'air', 'breathing', 'breath', 'breaths', 'princess'])
+-------------------------------------------------------
+Group of the Authors
+Path Into the Unknown - Best of Soviet Sf
+dict_keys(['air'])
+-------------------------------------------------------
+Hirsch, Paul;
+A Long Time Ago in a Cutting Room Far, Far Away
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Losos, Jonathan B.
+The Princeton Guide to Evolution
+dict_keys([])
+-------------------------------------------------------
+Philip Coppens
+Ancient Aliens
+dict_keys(['air', 'cold war', 'cold'])
+-------------------------------------------------------
+Berg, Jeremy M.; Stryer, Lubert; Tymoczko, John
+Biochemistry
+dict_keys(['ice'])
+-------------------------------------------------------
+Schott, Ian
+A Brief History of Bad Medicine (Brief Histories)
+dict_keys(['freeze', 'queen', 'cold', 'suck'])
+-------------------------------------------------------
+John Gray
+Straw Dogs
+dict_keys([])
+-------------------------------------------------------
+Abdellah Benahnia
+Understanding Modern English Grammar and Syntax : Syntactic & Grammatical Tips
+dict_keys(['air'])
+-------------------------------------------------------
+TJ Books
+The ChatGPT Millionaire Handbook
+dict_keys([])
+-------------------------------------------------------
+Martin Krause
+The Complete Developer - Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker (for True Epub)
+dict_keys([])
+-------------------------------------------------------
+Addiss, Stephen
+The Art of Haiku: Its History through Poems and Paintings by Japanese Masters
+dict_keys(['ice'])
+-------------------------------------------------------
+Peter Lee
+The AI Revolution in Medicine: GPT-4 and Beyond
+dict_keys(['breath', 'suck'])
+-------------------------------------------------------
+Barbara Oakley PhD
+Learn Like a Pro
+dict_keys([])
+-------------------------------------------------------
+Helen Ellerbe
+The Dark Side of Christian History
+dict_keys([])
+-------------------------------------------------------
+Bainbridge, William Sims
+God From the Machine: Artificial Intelligence Models of Religious Cognition
+dict_keys(['queen'])
+-------------------------------------------------------
+Jim Tamkin
+The Myeloma Survival Guide
+dict_keys(['air'])
+-------------------------------------------------------
+Marie-Christine Gay
+Le théâtre « de l’absurde » en RFA
+dict_keys(['air'])
+-------------------------------------------------------
+Alessandro Bertinetto;Marcello Ruta;
+The Routledge Handbook of Philosophy and Improvisation in the Arts
+dict_keys(['queen'])
+-------------------------------------------------------
+Stroop, Chrissy
+Empty the Pews
+dict_keys(['throat'])
+-------------------------------------------------------
+Paul Bloom
+How Pleasure Works
+dict_keys(['cold', 'princess', 'coffee'])
+-------------------------------------------------------
+A. David Redish
+Changing How We Choose '- The New Science of Morality
+dict_keys(['princess'])
+-------------------------------------------------------
+Marina Montesano;
+Folklore, Magic, and Witchcraft
+dict_keys(['arctic', 'sucking'])
+-------------------------------------------------------
+Joanna Moncrieff
+A Straight Talking Introduction to Psychiatric Drugs (Straight Talking Introductions)
+dict_keys(['air'])
+-------------------------------------------------------
+Brian Scott Fitzgerald
+Beyond ChatGPT and 50 New AI Tools The Ultimate Guide to Discovering Cutting-Edge AI Tools Beyond ChatGPT
+dict_keys([])
+-------------------------------------------------------
+Peter Bondanella
+The Cinema of Federico Fellini
+dict_keys(['air', 'oral sex'])
+-------------------------------------------------------
+Shekhar mishra
+Social media hacking: Hack Facebook,what's app,instagram,twitter accounts
+dict_keys([])
+-------------------------------------------------------
+Martin Fitzpatrick
+Create GUI Applications with Python & Qt6: The hands-on guide to making apps with Python
+dict_keys([])
+-------------------------------------------------------
+Atwill, Joseph
+Caesar's Messiah: The Roman Conspiracy to Invent Jesus:Flavian Signature Edition
+dict_keys(['ice'])
+-------------------------------------------------------
+Esler, Philip Francis
+The Early Christian World
+dict_keys([])
+-------------------------------------------------------
+Carrier, Richard
+Sense and Goodness Without God
+dict_keys([])
+-------------------------------------------------------
+Carrier, Richard
+Not the Impossible Faith: Why Christianity Didn't Need a Miracle to Succeed
+dict_keys(['cold', 'queen'])
+-------------------------------------------------------
+Robert H. Frank
+Dlaczego piloci kamikadze zakładali hełmy?
+dict_keys([])
+-------------------------------------------------------
+Del Caro, Adrian and Janaway, Christopher Janaway, Christopher
+The Cambridge Edition of the Works of Schopenhauer: Arthur Schopenhauer
+dict_keys([])
+-------------------------------------------------------
+Stephen Gaukroger
+French Philosophy: A Very Short Introduction
+dict_keys(['cold war', 'cold', 'ice'])
+-------------------------------------------------------
+Nik Taylor
+Humans, Animals, and Society
+dict_keys(['ice'])
+-------------------------------------------------------
+Laura Mersini-Houghton
+Before the Big Bang: the Origin of Our Universe from the Multiverse
+dict_keys(['chill', 'coffee'])
+-------------------------------------------------------
+Joris-Karl Huysmans
+Against Nature
+dict_keys([])
+-------------------------------------------------------
+Paul Bouissac;
+Saussure: A Guide For The Perplexed
+dict_keys(['breath', 'cold'])
+-------------------------------------------------------
+Ward Farnsworth
+The Practicing Stoic
+dict_keys([])
+-------------------------------------------------------
+Ward Farnsworth
+Farnsworth's Classical English Rhetoric
+dict_keys(['air'])
+-------------------------------------------------------
+Kruuk, Hans
+Niko's Nature: A life of NIko Tinbergen and his science of animal behaviour
+dict_keys(['hockey', 'cold', 'coffee'])
+-------------------------------------------------------
+Serge Sharoff, Elena Umanskaya and James Wilson
+A Frequency Dictionary of Russian
+dict_keys([])
+-------------------------------------------------------
+Paweł Jasienica
+Polska Jagiellonów
+dict_keys([])
+-------------------------------------------------------
+Paweł Jasienica
+Polska Piastów
+dict_keys([])
+-------------------------------------------------------
+Ryckman, Thomas; Fine, Arthur;
+Einstein
+dict_keys([])
+-------------------------------------------------------
+Kenneth Yasuda
+Japanese Haiku
+dict_keys(['air', 'breathing', 'breath'])
+-------------------------------------------------------
+Andre Bazin
+Orson Welles: A Critical View
+dict_keys(['air', 'sucking'])
+-------------------------------------------------------
+Robin Wieruch
+The Road to React
+dict_keys([])
+-------------------------------------------------------
+Kay Redfield Jamison
+Night Falls Fast
+dict_keys(['ice', 'air', 'throat', 'breathing'])
+-------------------------------------------------------
+Weiner, Joan; 
+Frege Explained
+dict_keys(['cool'])
+-------------------------------------------------------
+Christopher Boehm
+Hierarchy in the Forest: The Evolution of Egalitarian Behavior
+dict_keys(['air'])
+-------------------------------------------------------
+World Video Game Hall of Fame
+A History of Video Games in 64 Objects
+dict_keys(['queen', 'cold war', 'cold', 'air', 'coffee', 'hockey'])
+-------------------------------------------------------
+Uri Maoz;Walter Sinnott-Armstrong;
+Free Will
+dict_keys([])
+-------------------------------------------------------
+Wilhelm Wundt
+Elem Folk Psyc:Esc V7
+dict_keys(['breath'])
+-------------------------------------------------------
+Jonathan Haidt
+Prawy umysł
+dict_keys([])
+-------------------------------------------------------
+Karolina Watroba
+Mann's Magic Mountain: World Literature and Closer Reading
+dict_keys(['air'])
+-------------------------------------------------------
+Chabon, Michael
+Związek żydowskich policjantów
+dict_keys([])
+-------------------------------------------------------
+Einstein, Albert
+Ideas and Opinions
+dict_keys(['cold'])
+-------------------------------------------------------
+Aaron Zimmerman;Karen Jones;Mark Timmons;
+The Routledge Handbook of Moral Epistemology
+dict_keys([])
+-------------------------------------------------------
+Camilla Nord
+The Balanced Brain
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Beebee, Helen.,Effingham, Nikk.,Goff, Philip.
+Metaphysics
+dict_keys(['cold', 'throat'])
+-------------------------------------------------------
+Ken Williams
+Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line
+dict_keys(['cool', 'coffee'])
+-------------------------------------------------------
+Sinclair McKay
+The Hidden History of Code Breaking
+dict_keys(['queen', 'frozen', 'air', 'cold'])
+-------------------------------------------------------
+Alain Robbe-Grillet
+Recollections of the Golden Triangle
+dict_keys(['breathing', 'air', 'throat', 'frozen', 'coffee'])
+-------------------------------------------------------
+Alain Robbe-Grillet
+Project for a Revolution in New York
+dict_keys(['throat', 'air'])
+-------------------------------------------------------
+Alain Robbe-Grillet
+Topology of a Phantom City
+dict_keys(['ice', 'cold', 'air', 'breathing', 'throat', 'breath', 'frozen'])
+-------------------------------------------------------
+Alain Robbe-Grillet
+The Voyeur
+dict_keys(['air', 'breath'])
+-------------------------------------------------------
+Alain Robbe-Grillet
+Repetition
+dict_keys(['air', 'cold', 'princess', 'breathing'])
+-------------------------------------------------------
+Alain Robbe-Grillet
+La Maison de Rendez-Vous and Djinn
+dict_keys(['coffee', 'cold'])
+-------------------------------------------------------
+Gary Indiana
+Andy Warhol and the Can that Sold the World
+dict_keys(['air', 'cold war', 'cold', 'ice', 'queen'])
+-------------------------------------------------------
+Gerd Ludemann
+Rediscovering the Apostle Paul
+dict_keys([])
+-------------------------------------------------------
+Gerd Ludemann
+The Resurrection of Jesus: History, Experience, Theology
+dict_keys([])
+-------------------------------------------------------
+Dennis Jarecke
+Calculus in 5 Hours: Concepts Revealed so You Don't Have to Sit Through a Semester of Lectures
+dict_keys([])
+-------------------------------------------------------
+Petra Mundik;
+A Bloody and Barbarous God
+dict_keys(['cold', 'breathing', 'throat', 'breath', 'air'])
+-------------------------------------------------------
+Holmes, Thom
+Electronic and Experimental Music
+dict_keys([])
+-------------------------------------------------------
+Bruce N Waller
+Against Moral Responsibility
+dict_keys(['coffee'])
+-------------------------------------------------------
+Numa Dhamani
+Introduction to Generative AI
+dict_keys([])
+-------------------------------------------------------
+Flavius Josephus
+The Antiquities of the Jews
+dict_keys([])
+-------------------------------------------------------
+Flavius Josephus
+The Jewish War
+dict_keys(['queen'])
+-------------------------------------------------------
+Flavius Josephus
+Josephus Flavius: Complete Works and Historical Background (Annotated and Illustrated) (Annotated Classics)
+dict_keys(['cool', 'queen'])
+-------------------------------------------------------
+Patrick O'Connor;
+Cormac McCarthy, Philosophy and the Physics of the Damned
+dict_keys([])
+-------------------------------------------------------
+Pey-Yi Chu;
+The Life of Permafrost
+dict_keys(['frozen', 'Siberia', 'cold', 'arctic', 'ice', 'air', 'Antarctica', 'siberian', 'cold war'])
+-------------------------------------------------------
+W. Tecumseh Fitch
+The Evolution of Language
+dict_keys([])
+-------------------------------------------------------
+Diego E. Machuca
+Pyrrhonism in Ancient, Modern, and Contemporary Philosophy
+dict_keys([])
+-------------------------------------------------------
+Kyle H. Keimer;George A. Pierce;
+The Ancient Israelite World
+dict_keys([])
+-------------------------------------------------------
+Ellen Fridland;Carlotta Pavese;
+The Routledge Handbook of Philosophy of Skill and Expertise
+dict_keys([])
+-------------------------------------------------------
+Ganesh Naik
+Bash Cookbook
+dict_keys([])
+-------------------------------------------------------
+Marcia Landy
+Monty Python's Flying Circus
+dict_keys(['freeze', 'cold war', 'cold', 'air'])
+-------------------------------------------------------
+Elisabeth Sheff
+Stories from the Polycule
+dict_keys(['ice', 'ice-cream', 'coffee'])
+-------------------------------------------------------
+Nathan L Ensmenger
+The Computer Boys Take Over
+dict_keys(['air'])
+-------------------------------------------------------
+Carrier, Richard C.
+Proving History: Bayes's Theorem and the Quest for the Historical Jesus
+dict_keys([])
+-------------------------------------------------------
+Friedrich Nietzsche
+Human, All Too Human
+dict_keys(['cool', 'cold'])
+-------------------------------------------------------
+Friedrich Nietzsche
+The Portable Nietzsche
+dict_keys(['breathing'])
+-------------------------------------------------------
+Friedrich Nietzsche
+The Will to Power
+dict_keys([])
+-------------------------------------------------------
+Friedrich Nietzsche
+The Friedrich Nietzsche Collection: 22 Classic Works
+dict_keys([])
+-------------------------------------------------------
+Friedrich Nietzsche
+The Joyous Science
+dict_keys(['cold', 'ice', 'air', 'breath'])
+-------------------------------------------------------
+Friedrich Nietzsche
+Aphorisms on Love and Hate
+dict_keys(['cool', 'cold', 'breath'])
+-------------------------------------------------------
+Friedrich Nietzsche
+Twilight of Idols and Anti-Christ
+dict_keys([])
+-------------------------------------------------------
+Friedrich Nietzsche
+The Dawn of Day
+dict_keys(['air'])
+-------------------------------------------------------
+Friedrich Nietzsche
+Thus Spoke Zarathustra: A Book for Everyone and Nobody (Oxford World's Classics)
+dict_keys(['air', 'breathing', 'cold'])
+-------------------------------------------------------
+Friedrich Nietzsche
+Beyond Good and Evil
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Friedrich Nietzsche
+On the Genealogy of Morals
+dict_keys([])
+-------------------------------------------------------
+Friedrich Nietzsche
+The Dawn of Day by Friedrich Nietzsche
+dict_keys(['air'])
+-------------------------------------------------------
+Matthew McKay
+The ACT Workbook for Depression and Shame
+dict_keys(['cold'])
+-------------------------------------------------------
+Sam Holland
+Echo Man
+dict_keys([])
+-------------------------------------------------------
+Reisner, Noam
+John Milton & Paradise Lost
+dict_keys(['air'])
+-------------------------------------------------------
+Cobley, Paul;
+The Routledge Companion to Semiotics
+dict_keys([])
+-------------------------------------------------------
+Raúl Rojas
+Konrad Zuse's Early Computers
+dict_keys([])
+-------------------------------------------------------
+Jacqueline R. Kanovitz;Jefferson L. Ingram;Christopher J. Devine;
+Constitutional Law for Criminal Justice
+dict_keys([])
+-------------------------------------------------------
+Daniel T. Unterbrink
+The Three Messiahs: The Historical Judas the Galilean, The Revelatory Christ Jesus, and The Mythical Jesus of Nazareth
+dict_keys(['air'])
+-------------------------------------------------------
+Carlo Rovelli
+Tajemnica czasu
+dict_keys([])
+-------------------------------------------------------
+Bogdan Góralczyk
+Wielki renesans. Chińska transformacja i jej konsekwencje
+dict_keys([])
+-------------------------------------------------------
+Heinrich Meier
+What is Nietzsche's Zarathustra?
+dict_keys(['ice'])
+-------------------------------------------------------
+Gerald P. Delahunty and James J. Garvey
+The English Language: From Sound to Sense
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Travis Timmerman;Michael Cholbi;
+Exploring the Philosophy of Death and Dying
+dict_keys(['breath', 'frozen', 'breathing', 'air'])
+-------------------------------------------------------
+AUTHOR NAMES HERE
+Hands-On Large Language Models
+dict_keys([])
+-------------------------------------------------------
+Felicity Joseph;Jack Reynolds;Ashley Woodward;
+The Bloomsbury Companion to Existentialism
+dict_keys([])
+-------------------------------------------------------
+Ian Nathan
+Anything You Can Imagine: The making of Middle-Earth
+dict_keys(['breathing', 'cool', 'air'])
+-------------------------------------------------------
+Joseph R. Urgo
+Reading Faulkner
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+Garrett Pendergraft;
+Free Will and Human Agency: 50 Puzzles, Paradoxes, and Thought Experiments
+dict_keys([])
+-------------------------------------------------------
+Seth Andrews
+Christianity Made Me Talk Like an Idiot
+dict_keys(['cold', 'air', 'breath'])
+-------------------------------------------------------
+Steven L Taylor
+30- Second Politics: The 50 Most Thought-Provoking Theories in Politics, Each Explained in Half a Minute
+dict_keys(['queen'])
+-------------------------------------------------------
+Audrey Johns
+Lose Weight by Eating
+dict_keys(['ice', 'cold', 'frozen', 'coffee'])
+-------------------------------------------------------
+Andrew M. Pomerantz
+Clinical Psychology: Science, Practice, and Diversity
+dict_keys([])
+-------------------------------------------------------
+Manoah Bowman
+Fellini
+dict_keys(['breathing', 'cool', 'ice'])
+-------------------------------------------------------
+Stoker, H. G.;
+Conscience
+dict_keys([])
+-------------------------------------------------------
+Maula, Issa
+PYTHON CRASH COURSE FOR GRAPHIC DESIGNERS AND BEGINNERS
+dict_keys([])
+-------------------------------------------------------
+J.J. Abrams
+I Am C-3PO - The Inside Story
+dict_keys(['princess'])
+-------------------------------------------------------
+Walter Rocchi
+Cybersecurity and Privacy Law Handbook
+dict_keys(['coffee', 'air'])
+-------------------------------------------------------
+Sam Harris
+The End of Faith: Religion, Terror, and the Future of Reason
+dict_keys(['frozen'])
+-------------------------------------------------------
+Sam Harris
+Letter To A Christian Nation
+dict_keys(['breath'])
+-------------------------------------------------------
+Sam Harris
+Free Will
+dict_keys(['coffee', 'ice'])
+-------------------------------------------------------
+Bonnie G. Smith
+Europe in the Contemporary World: 1900 to the Present: A Narrative History With Documents
+dict_keys(['cold war', 'cold', 'coffee'])
+-------------------------------------------------------
+Machado de Assis, Joaquim Maria; Borges, Dain; Lowe, Elizabeth
+Esau and Jacob
+dict_keys(['air', 'coffee', 'throat'])
+-------------------------------------------------------
+Robert Graves
+Córka Homera
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Ja, Klaudiusz
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Klaudiusz i Messalina
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Opowiadania
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Herkules z mojej załogi
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Belizariusz
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Wyspy szaleństwa
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Biała Bogini
+dict_keys([])
+-------------------------------------------------------
+Robert Graves
+Mity hebrajskie
+dict_keys([])
+-------------------------------------------------------
+Jan Reetze
+Times & Sounds: Germany’s Journey from Jazz and Pop to Krautrock and Beyond
+dict_keys(['ice', 'air', 'throat'])
+-------------------------------------------------------
+Jessie Fillerup
+Magician of Sound: Ravel and the Aesthetics of Illusion
+dict_keys(['princess'])
+-------------------------------------------------------
+DK Publishing
+The Economics Book
+dict_keys(['ice', 'cold'])
+-------------------------------------------------------
+DK Publishing
+The Religions Book
+dict_keys(['siberian', 'air', 'arctic', 'ice', 'breathing'])
+-------------------------------------------------------
+DK Publishing
+The Philosophy Book
+dict_keys(['air', 'ice'])
+-------------------------------------------------------
+Peter L. Bernstein
+Przeciw Bogom. Niezwykłe dzieje ryzyka
+dict_keys([])
+-------------------------------------------------------
+Matthew Sadler
+Game Changer
+dict_keys(['queen'])
+-------------------------------------------------------
+Maula, Issa
+PYTHON CRASH COURSE FOR GRAPHIC DESIGNERS AND BEGINNERS
+dict_keys([])
+-------------------------------------------------------
+B.J. Korites
+Python Graphics
+dict_keys([])
+-------------------------------------------------------
+DANIEL UNTERBRINK
+WHO WERE the HISTORICAL JESUS of NAZARETH and PAUL of TARSUS?
+dict_keys(['air'])
+-------------------------------------------------------
+David J Lieberman
+Get Anyone to Do Anything
+dict_keys(['cool', 'air'])
+-------------------------------------------------------
+Page Turner
+Poly Land
+dict_keys(['throat', 'cold', 'hockey', 'coffee'])
+-------------------------------------------------------
+Alexander Anievas
+How the West Came to Rule: The Geopolitical Origins of Capitalism
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Krótkiego Słońca 01 - Na wodach Błękitu (1999)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Nowego Słońca 05 - Urth Nowego Słońca (1987)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Nowego Słońca 04 - Cytadela Autarchy (1983)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Długiego Słońca 02 - Jezioro Długiego Słońca (1994)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Długiego Słońca 03 - Caldé Długiego Słońca (1994)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Krótkiego Słońca 03 - Powrót do Whorla (2001)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Krótkiego Słońca 02 - W dżunglach Zieleni (2000)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Długiego Słońca 04 - Exodus z Długiego Słońca (1996)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Nowego Słońca 03 - Miecz Liktora (1982)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Długiego Słońca 01 - Ciemna strona Długiego Słońca (1993)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Nowego Słońca 02 - Pazur Łagodziciela (1981)
+dict_keys([])
+-------------------------------------------------------
+Wolfe Gene
+Księga Nowego Słońca 01 - Cień kata (1980)
+dict_keys([])
+-------------------------------------------------------
+Olga Tokarczuk
+Profesor Andrews w Warszawie. Wyspa
+dict_keys([])
+-------------------------------------------------------
+Olga Tokarczuk
+Lalka i perła
+dict_keys([])
+-------------------------------------------------------
+Alex Walter
+Evolutionary Psychology and the Propositional-attitudes
+dict_keys(['queen'])
+-------------------------------------------------------
+Alex Walter
+Evolutionary Psychology and the Propositional-attitudes
+dict_keys(['queen'])
+-------------------------------------------------------
+Jakub Bobrowski, Mateusz Wrona
+Mitologia słowiańska
+dict_keys([])
+-------------------------------------------------------
+Deborah M. Anapol
+Polyamory in the 21st Century: Love and Intimacy With Multiple Partners
+dict_keys(['cool'])
+-------------------------------------------------------
+John W. Santrock
+Essentials of Life-Span Development
+dict_keys(['oral sex', 'breathing'])
+-------------------------------------------------------
+Edward Gibbon
+The History of the Decline and Fall of the Roman Empire
+dict_keys([])
+-------------------------------------------------------
+Andrew Fiala;
+The Routledge Handbook of Pacifism and Nonviolence
+dict_keys(['queen'])
+-------------------------------------------------------
+Xiao-Xiong Gan
+Formal Analysis
+dict_keys([])
+-------------------------------------------------------
+Karen Russell
+Swamplandia!
+dict_keys(['air', 'breathing', 'ice', 'queen', 'throat', 'frozen', 'freeze'])
+-------------------------------------------------------
+McGeorge, Donna;
+The ChatGPT Revolution
+dict_keys(['queen', 'coffee', 'arctic'])
+-------------------------------------------------------
+Tim Weiner
+Szaleństwo i chwała
+dict_keys([])
+-------------------------------------------------------
+Annelise Heinz
+Mahjong
+dict_keys(['cool', 'air', 'cold war', 'cold'])
+-------------------------------------------------------
+Franklin Veaux
+More Than Two: A practical guide to ethical polyamory
+dict_keys([])
+-------------------------------------------------------
+Rene Levy
+Baseless Hatred
+dict_keys(['cool', 'cold'])
+-------------------------------------------------------
+Loftus, John W.
+The Case Against Miracles
+dict_keys(['hockey', 'air'])
+-------------------------------------------------------
+James A. Haugt
+2000 Years of Disbelief
+dict_keys([])
+-------------------------------------------------------
+Purushottama Bilimoria
+History of Indian Philosophy
+dict_keys(['air'])
+-------------------------------------------------------
+Charles Templeton
+Farewell to God
+dict_keys(['queen', 'air', 'cool', 'breath'])
+-------------------------------------------------------
+Shawn Mills
+The Sierra Adventure
+dict_keys(['princess', 'breathing', 'cool'])
+-------------------------------------------------------
+Howard Burton
+The Derveni Papyrus
+dict_keys(['air', 'breathing'])
+-------------------------------------------------------
+Shawn E. Marchese & Alan Sisto
+Why We Love Middle-Earth
+dict_keys(['cool'])
+-------------------------------------------------------
+R. Shankar
+Fundamentals of Physics
+dict_keys([])
+-------------------------------------------------------
+R. Shankar
+Fundamentals of Physics II
+dict_keys([])
+-------------------------------------------------------
+Akshay Kulkarni
+Applied Generative AI for Beginners
+dict_keys([])
+-------------------------------------------------------
+Shan; Gao
+Consciousness and Quantum Mechanics
+dict_keys([])
+-------------------------------------------------------
+Kevin McCain;
+Epistemology: 50 Puzzles, Paradoxes, and Thought Experiments
+dict_keys(['cold', 'cafe'])
+-------------------------------------------------------
+Ben Goldacre
+Bad Pharma
+dict_keys(['breathing'])
+-------------------------------------------------------
+Keaney, Michael F.
+Film Noir Guide
+dict_keys(['cold', 'coffee', 'queen'])
+-------------------------------------------------------
+Rungta, Krishna
+Learn SQLite in 1 Day: Definitive Guide to Learn SQLite for Beginners
+dict_keys([])
+-------------------------------------------------------
+Mervyn Peake
+Complete Nonsense
+dict_keys(['cold', 'queen', 'arctic'])
+-------------------------------------------------------
+Mervyn Peake
+The Illustrated Gormenghast Trilogy
+dict_keys(['chill', 'throat', 'air'])
+-------------------------------------------------------
+Adam Kirsch
+The Revolt Against Humanity
+dict_keys(['cold war', 'cold', 'ice', 'breath', 'air'])
+-------------------------------------------------------
+Temple Grandin, Ph.D.
+Visual Thinking
+dict_keys(['sucking', 'air'])
+-------------------------------------------------------
+Emile Durkheim
+On Suicide
+dict_keys(['throat'])
+-------------------------------------------------------
+Banks Iain
+Uwikłanie (1993)
+dict_keys([])
+-------------------------------------------------------
+Banks Iain
+Most (1986)
+dict_keys([])
+-------------------------------------------------------
+John Hollander
+The Substance of Shadow
+dict_keys(['cold', 'queen', 'breathing'])
+-------------------------------------------------------
+xxx
+Wajda. Kronika wypadków filmowych
+dict_keys([])
+-------------------------------------------------------
+Antoine de Caunes
+MAGMA
+dict_keys([])
+-------------------------------------------------------
+Daniel D. Garcia-Swartz
+Cellular: an Economic and Business History of the International Mobile-Phone Industry
+dict_keys([])
+-------------------------------------------------------
+Klaus Dodds
+Geopolitics
+dict_keys(['cold war', 'cold', 'ice', 'air'])
+-------------------------------------------------------
+Harrison, Guy P.
+Think: Why You Should Question Everything
+dict_keys(['cold', 'cool'])
+-------------------------------------------------------
+Harrison, Guy P.
+50 Popular Beliefs That People Think Are True
+dict_keys([])
+-------------------------------------------------------
+Niall Kishtainy
+Krótka historia ekonomii
+dict_keys([])
+-------------------------------------------------------
+Jamie Metzl
+Hacking Darwin
+dict_keys(['freeze', 'breath', 'cold war', 'cold', 'air'])
+-------------------------------------------------------
+Sandra Kublik
+GPT-3
+dict_keys(['coffee'])
+-------------------------------------------------------
+William Scott Wilson
+A Beginner's Guide to Japanese Haiku
+dict_keys(['frozen', 'cold'])
+-------------------------------------------------------
+Andy Clark
+Surfing Uncertainty
+dict_keys(['coffee'])
+-------------------------------------------------------
+Andy Clark
+The Experience Machine
+dict_keys([])
+-------------------------------------------------------
+Stephen Hawking
+A Brief History of Time
+dict_keys(['ice', 'air'])
+-------------------------------------------------------
+Stephen Hawking
+A Briefer History of Time
+dict_keys(['air'])
+-------------------------------------------------------
+Martha Bayless;
+A Cultural History of Comedy in the Middle Ages
+dict_keys(['air'])
+-------------------------------------------------------
+Matthias Nöllke
+Asertywność i sztuka celnej riposty. Jak umiejętnie i skutecznie odpierać krytykę i ataki słowne oraz rozładować sytuacje konfliktowe
+dict_keys([])
+-------------------------------------------------------
+Brian Boone
+Music Theory 101
+dict_keys([])
+-------------------------------------------------------
+Glennan, Stuart,Illari, Phyllis McKay
+The Routledge Handbook of Mechanisms and Mechanical Philosophy
+dict_keys(['ice'])
+-------------------------------------------------------
+Bowen, Christopher J.
+Grammar of the Edit
+dict_keys([])
+-------------------------------------------------------
+Georg H. Eifert
+ACT on Life Not on Anger
+dict_keys(['cold'])
+-------------------------------------------------------
+Spufford, Francis
+Red Plenty
+dict_keys(['air', 'ice', 'breath', 'cold', 'breaths'])
+-------------------------------------------------------
+Alex Rosenberg;Lee McIntyre;
+Philosophy of Science
+dict_keys([])
+-------------------------------------------------------
+Marcin Jacoby
+Chiny bez makijażu
+dict_keys([])
+-------------------------------------------------------
+Isabella Kasselstrand
+Beyond Doubt
+dict_keys(['ice'])
+-------------------------------------------------------
+Simon J.D. Prince;
+Understanding Deep Learning
+dict_keys([])
+-------------------------------------------------------
+Jean-Paul Sartre
+Existentialism and Human Emotions
+dict_keys(['air', 'breathing'])
+-------------------------------------------------------
+Jean-Paul Sartre
+The Wall
+dict_keys(['cold', 'air', 'breathing'])
+-------------------------------------------------------
+Jean-Paul Sartre
+The Philosophy of Existentialism: Selected Essays
+dict_keys([])
+-------------------------------------------------------
+Jean-Paul Sartre
+Nausea (New Directions Paperbook)
+dict_keys(['air'])
+-------------------------------------------------------
+Jean-Paul Sartre
+Existentialism Is a Humanism
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Jean-Paul Sartre
+What Is Subjectivity?
+dict_keys(['cold war', 'cold', 'air'])
+-------------------------------------------------------
+Jean-Paul Sartre
+Between Existentialism and Marxism
+dict_keys(['air'])
+-------------------------------------------------------
+Henry James
+Dom na Placu Waszyngtona
+dict_keys([])
+-------------------------------------------------------
+Henry James
+Dokręcanie śruby
+dict_keys([])
+-------------------------------------------------------
+Henry James
+Opowiadania nowojorskie
+dict_keys([])
+-------------------------------------------------------
+Henry James
+Świat grozy
+dict_keys([])
+-------------------------------------------------------
+Scott Atran (editor)
+Folkbiology
+dict_keys([])
+-------------------------------------------------------
+libgen.li
+Naming the Rose [Umberto Eco]
+dict_keys([])
+-------------------------------------------------------
+Paul Humphreys
+The Oxford Handbook of Philosophy of Science
+dict_keys(['queen'])
+-------------------------------------------------------
+Ian Stewart
+Wielkie problemy matematyczne
+dict_keys([])
+-------------------------------------------------------
+Townsend, Clarity
+Taking A Lover: A MFM Polyamory Romance
+dict_keys(['breath', 'cold', 'ice'])
+-------------------------------------------------------
+Will Shortz
+Puzzlemaster Deck: 75 Word Riddles
+dict_keys([])
+-------------------------------------------------------
+Will Shortz
+Puzzlemaster Deck: 75 Verbal Challenges
+dict_keys(['cold', 'breath', 'frozen', 'queen'])
+-------------------------------------------------------
+Will Shortz
+Puzzlemaster Deck: 75 Mind Bogglers
+dict_keys(['cold'])
+-------------------------------------------------------
+Will Shortz
+Puzzlemaster Deck: 75 Brain Twisters
+dict_keys(['frozen', 'air'])
+-------------------------------------------------------
+David J. Lieberman, PhD
+Mindreader
+dict_keys(['cold', 'air', 'coffee'])
+-------------------------------------------------------
+Jack Norton;Lydia Pelot-Hobbs;Judah Schept;
+The Jail Is Everywhere
+dict_keys(['ice'])
+-------------------------------------------------------
+Daniel C. Dennett
+Breaking the Spell
+dict_keys([])
+-------------------------------------------------------
+Daniel C. Dennett
+Darwin's Dangerous Idea
+dict_keys(['throat'])
+-------------------------------------------------------
+Watson, Burton
+The Complete Works of Zhuangzi
+dict_keys([])
+-------------------------------------------------------
+Asya Draganova, Shane Blackman, Andy Bennett
+The Canterbury Sound in Popular Music
+dict_keys([])
+-------------------------------------------------------
+Alan Furst
+Szpiedzy na Bałkanach
+dict_keys([])
+-------------------------------------------------------
+Alan Furst
+Szpiedzy na Bałkanach
+dict_keys([])
+-------------------------------------------------------
+Alan Furst
+Szpiedzy w Warszawie
+dict_keys([])
+-------------------------------------------------------
+Alan Furst
+Zmierzch nad Europą
+dict_keys(['air'])
+-------------------------------------------------------
+Alan Furst
+Misja w Paryżu
+dict_keys([])
+-------------------------------------------------------
+Alan Furst
+Misja w Paryżu
+dict_keys([])
+-------------------------------------------------------
+Alan Furst
+Zmierzch nad Europą
+dict_keys(['air'])
+-------------------------------------------------------
+Kristoffer Hegnsvad
+Werner Herzog
+dict_keys(['ice', 'Antarctica'])
+-------------------------------------------------------
+Timothy Dowley
+Introduction to the History of Christianity
+dict_keys(['air'])
+-------------------------------------------------------
+Martin G. Abegg
+The Dead Sea Scrolls Bible
+dict_keys(['breath'])
+-------------------------------------------------------
+Guenter Grass
+Blaszany Bebenek formated
+dict_keys([])
+-------------------------------------------------------
+Carl Albing
+bash Idioms
+dict_keys(['air'])
+-------------------------------------------------------
+Simon Underdown
+30-Second Anthropology
+dict_keys(['Siberia', 'ice', 'arctic', 'cold'])
+-------------------------------------------------------
+Craig Finch
+Sage Beginner's Guide
+dict_keys([])
+-------------------------------------------------------
+Niccolò Machiavelli
+Discourses on Livy
+dict_keys([])
+-------------------------------------------------------
+Jonathan Cross
+The Cambridge Companion to Stravinsky
+dict_keys(['queen', 'princess'])
+-------------------------------------------------------
+NIBEDITA Sahu
+Data Science Fusion: Integrating Maths, Python, and Machine Learning
+dict_keys([])
+-------------------------------------------------------
+NIBEDITA Sahu
+Mathematics for Machine Learning: A Deep Dive into Algorithms
+dict_keys([])
+-------------------------------------------------------
+Kirk J. Schneider
+Existential–Humanistic Therapy (Theories of Psychotherapy Series®)
+dict_keys([])
+-------------------------------------------------------
+Deborah A. Dahl
+Natural Language Understanding with Python
+dict_keys([])
+-------------------------------------------------------
+Yashica Dutt
+Coming Out as Dalit
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Szasz, Thomas;
+Psychiatry
+dict_keys(['air'])
+-------------------------------------------------------
+Levy, Neil; 
+Moral Relativism
+dict_keys(['air', 'cool'])
+-------------------------------------------------------
+Lauren McCarthy
+Getting Started with p5.js
+dict_keys([])
+-------------------------------------------------------
+Richard Carrier
+Jesus from Outer Space
+dict_keys(['air'])
+-------------------------------------------------------
+Richard Carrier
+On the Historicity of Jesus
+dict_keys([])
+-------------------------------------------------------
+Richard Carrier
+Why I Am Not a Christian: Four Conclusive Reasons to Reject the Faith
+dict_keys(['air'])
+-------------------------------------------------------
+Richard Carrier
+On the Historicity of Jesus
+dict_keys([])
+-------------------------------------------------------
+Peter Biskind
+My Lunches with Orson
+dict_keys(['cold', 'frozen'])
+-------------------------------------------------------
+Blain Brown
+Cinematography; Theory and practice for cinematographers and directors; fourth edition (for True Epub)
+dict_keys(['cool', 'air', 'cold'])
+-------------------------------------------------------
+Norman Matloff;
+The Art of Machine Learning
+dict_keys([])
+-------------------------------------------------------
+Alloa, Emmanuel;Todd, Jane Marie;Barbaras, Renaud;
+Resistance of the Sensible World: Intro to Merleau-Ponty
+dict_keys(['air'])
+-------------------------------------------------------
+Lena Einhorn
+A Shift in Time: How Historical Documents Reveal the Surprising Truth About Jesus
+dict_keys([])
+-------------------------------------------------------
+William Smart
+An Introduction to the Theory of Value
+dict_keys(['air', 'breathing', 'cold'])
+-------------------------------------------------------
+Maximilian Kiener;
+The Routledge Handbook of Philosophy of Responsibility
+dict_keys(['queen'])
+-------------------------------------------------------
+Rachel Carson
+Man's War Against Nature
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Maria Eriksson;Rasmus Fleischer;Anna Johansson;Pelle Snickars;Patrick Vonderau;
+Spotify Teardown
+dict_keys(['coffee', 'queen'])
+-------------------------------------------------------
+Joseph J. Kockelmans
+Philosophy of Science
+dict_keys([])
+-------------------------------------------------------
+Appian of Alexandria
+Delphi Complete Works of Appian (Illustrated)
+dict_keys([])
+-------------------------------------------------------
+Badcock, Christopher; 
+Evolutionary Psychology
+dict_keys(['air'])
+-------------------------------------------------------
+Andrews, Kristin;
+Do Apes Read Minds?
+dict_keys(['coffee'])
+-------------------------------------------------------
+Oliver Sacks
+Hallucinations
+dict_keys(['air'])
+-------------------------------------------------------
+Oliver Sacks
+Musicophilia
+dict_keys(['throat'])
+-------------------------------------------------------
+Strauss, James
+Large Language Model with Python: A comprehensive guide to LLM's in the Age of AI 2024
+dict_keys([])
+-------------------------------------------------------
+Marlene Winell
+Leaving the Fold: A Guide for Former Fundamentalists and Others Leaving Their Religion
+dict_keys(['breath', 'cold war', 'cold'])
+-------------------------------------------------------
+Hector Avalos
+The End of Biblical Studies
+dict_keys([])
+-------------------------------------------------------
+Gilles Gayer;Laurent Gayer;
+Proud to Punish
+dict_keys(['air'])
+-------------------------------------------------------
+Marija Jankovic;Kirk Ludwig;
+The Routledge Handbook of Collective Intentionality
+dict_keys([])
+-------------------------------------------------------
+Andrew Pettegree
+The Library: A Fragile History
+dict_keys(['air'])
+-------------------------------------------------------
+ATHEER Mahir
+Chat GPT Prompt Engineering With Tech trends
+dict_keys([])
+-------------------------------------------------------
+Rebecca Roache
+For F*ck's Sake
+dict_keys(['queen'])
+-------------------------------------------------------
+Alex Howard
+It's Not Your Fault
+dict_keys(['cold', 'breath'])
+-------------------------------------------------------
+Zhuangzi
+Chuang Tzu: Mystic, Moralist, and Social Reformer
+dict_keys(['frozen', 'cold'])
+-------------------------------------------------------
+Zhuangzi
+Wandering on the way : early Taoist tales and parables of Chuang Tzu
+dict_keys([])
+-------------------------------------------------------
+Zhuangzi
+Zhuang zu: Inner chapters
+dict_keys(['air', 'ice', 'breath', 'suck'])
+-------------------------------------------------------
+Alan Kam
+Melchizedek Passages in the Bible: A Case Study for Inner-Biblical and Inter-Biblical Interpretation
+dict_keys([])
+-------------------------------------------------------
+Gabriele Schwab
+Moments for Nothing
+dict_keys(['breath', 'freeze', 'cold'])
+-------------------------------------------------------
+Jon Stokes
+Inside the Machine
+dict_keys(['air'])
+-------------------------------------------------------
+John Grant
+Spooky Science
+dict_keys(['breathing'])
+-------------------------------------------------------
+John Gribbin
+The Search for Superstrings, Symmetry, and the Theory of Everything
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+John Gribbin
+13.8
+dict_keys(['cold'])
+-------------------------------------------------------
+Avery Gilbert
+What the Nose Knows: The Science of Scent in Everyday Life
+dict_keys(['air', 'cool', 'cold', 'frozen'])
+-------------------------------------------------------
+Louis Ferdinand Céline
+Journey to the End of the Night
+dict_keys(['cold', 'air', 'cafe', 'cool'])
+-------------------------------------------------------
+Raymond Queneau
+The Bark Tree
+dict_keys(['suck', 'sucking', 'air', 'cool', 'breath'])
+-------------------------------------------------------
+Raymond Queneau
+The Flight of Icarus
+dict_keys(['coffee', 'cold'])
+-------------------------------------------------------
+Belle Moses
+Lewis Carroll in Wonderland and at Home: The Story of His Life
+dict_keys(['cold', 'throat', 'breath', 'air', 'chill', 'frozen', 'queen'])
+-------------------------------------------------------
+Peter Brunette
+Michael Haneke
+dict_keys(['cold', 'frozen', 'breathing'])
+-------------------------------------------------------
+Miguel Cervantes
+Don Kichot z Manczy
+dict_keys([])
+-------------------------------------------------------
+Valerie Hansen
+The Silk Road: A New History
+dict_keys(['ice', 'Siberia'])
+-------------------------------------------------------
+Jan T. Gross
+Revolution from Abroad
+dict_keys(['cool'])
+-------------------------------------------------------
+Jorge Cham, Daniel Whiteson
+Nie mamy pojęcia. Przewodnik po nieznanym wszechświecie
+dict_keys([])
+-------------------------------------------------------
+Bart D. Ehrman
+Truth and Fiction in The Da Vinci Code: A Historian Reveals What We Really Know about Jesus, Mary Magdalene, and Constantine
+dict_keys([])
+-------------------------------------------------------
+John Gardner
+Grendel
+dict_keys(['ice', 'breath', 'cold', 'air', 'suck', 'cool'])
+-------------------------------------------------------
+None
+Tales of the Marvellous and News of the Strange
+dict_keys(['princess'])
+-------------------------------------------------------
+Sverker Johansson
+The Dawn of Language
+dict_keys(['air'])
+-------------------------------------------------------
+Tom Head
+World History 101
+dict_keys(['cold war', 'cold', 'princess'])
+-------------------------------------------------------
+Katie Mack
+The End of Everything
+dict_keys(['ice', 'cool'])
+-------------------------------------------------------
+Seymour Chwast and Steven Heller
+Hell
+dict_keys(['queen', 'cold', 'breath', 'ice', 'sucking'])
+-------------------------------------------------------
+Nietzsche, Friedrich, Large, Duncan
+Twilight of the Idols
+dict_keys(['air'])
+-------------------------------------------------------
+James A. Haught
+Amazon Moon
+dict_keys(['queen', 'princess', 'breathing'])
+-------------------------------------------------------
+Lydia Kang
+Quackery: A Brief History of The Worst Ways to Cure Everything
+dict_keys(['cold'])
+-------------------------------------------------------
+Technology Summary
+Summary CHAT GPT AI Revolution 2023
+dict_keys(['breaths', 'ice'])
+-------------------------------------------------------
+Jennifer Michael Hecht
+Stay
+dict_keys(['queen'])
+-------------------------------------------------------
+Jean-Claude Carrière
+This is Not the End of the Book
+dict_keys(['air', 'breath'])
+-------------------------------------------------------
+Designing the Mind
+Designing the Mind: The Principles of Psychitecture
+dict_keys(['cold', 'breathing', 'princess'])
+-------------------------------------------------------
+CRICHTON MICHAEL
+Kongo
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Wędrówki
+dict_keys([])
+-------------------------------------------------------
+CRICHTON MICHAEL
+Człowiek terminal
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Jurassic Park
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Wschodzące słońce
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Państwo strachu
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+System
+dict_keys([])
+-------------------------------------------------------
+CRICHTON MICHAEL
+Wyzsza Koniecznosc
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+W sieci
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Wielki skok na pociąg
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Zaginiony świat
+dict_keys([])
+-------------------------------------------------------
+Crichton Michael
+Norton N22
+dict_keys([])
+-------------------------------------------------------
+Yascatery Martinez
+CHATGPT-4
+dict_keys([])
+-------------------------------------------------------
+Lamarque, Peter,Olsen, Stein Haugom
+Aesthetics and the Philosophy of Art - Anthology
+dict_keys([])
+-------------------------------------------------------
+Sue Hamilton
+Indian Philosophy: A Very Short Introduction
+dict_keys(['cold war', 'cold', 'Antarctica'])
+-------------------------------------------------------
+Gabrielle M Finn
+30-Second Medicine
+dict_keys(['throat', 'air'])
+-------------------------------------------------------
+Francis Collins
+The Language of God: A Scientist Presents Evidence for Belief
+dict_keys(['cold', 'ice'])
+-------------------------------------------------------
+Milan Kundera
+The Curtain
+dict_keys(['breath', 'chill'])
+-------------------------------------------------------
+Rachel Krantz
+Open: An Uncensored Memoir of Love, Liberation, and Non-Monogamy--A Polyamory Memoir
+dict_keys(['queen'])
+-------------------------------------------------------
+Coates, Ken
+Anti-Natalism
+dict_keys([])
+-------------------------------------------------------
+Nicomedia, Arrian of
+Complete Works of Arrian (Delphi Classics) (Delphi Ancient Classics Book 34)
+dict_keys(['queen'])
+-------------------------------------------------------
+Augusto S. Cacopardo, Augusto S. Cacopardo
+Pagan Christmas
+dict_keys(['air'])
+-------------------------------------------------------
+Mark Bould
+Solaris
+dict_keys(['cold war', 'cold', 'princess', 'air'])
+-------------------------------------------------------
+Andrew Bacon;
+A Philosophical Introduction to Higher Order Logics
+dict_keys([])
+-------------------------------------------------------
+Brian J. Robb
+Laurel & Hardy - The Pocket Essential
+dict_keys(['throat'])
+-------------------------------------------------------
+Tsutomu (Jixin) Kambe;
+Science And Buddhism: Dialogues
+dict_keys(['breathing', 'queen'])
+-------------------------------------------------------
+Chandrakar, Saurabh;Bhaskarrao, Nilesh;
+Python GUI with Pyqt
+dict_keys([])
+-------------------------------------------------------
+Ivan Gridin
+Learning Genetic Algorithms with Python
+dict_keys([])
+-------------------------------------------------------
+Tony Judt
+Brzemię odpowiedzialności: Blum, Camus, Aron i francuski wiek dwudziesty
+dict_keys([])
+-------------------------------------------------------
+Tony Judt
+Rozważania o wieku XX
+dict_keys([])
+-------------------------------------------------------
+Sara G. Beardsworth,Randall E. Auxier
+The Philosophy of Umberto Eco
+dict_keys([])
+-------------------------------------------------------
+Priestland, David
+The Red Flag: A History of Communism
+dict_keys(['cold war', 'cold', 'cool'])
+-------------------------------------------------------
+Nicholas Oles
+How to Catch a Phish
+dict_keys([])
+-------------------------------------------------------
+Steven Weinberg
+To Explain the World: The Discovery of Modern Science
+dict_keys(['frozen', 'air', 'breath'])
+-------------------------------------------------------
+Steven Weinberg
+The First Three Minutes
+dict_keys(['air', 'cool'])
+-------------------------------------------------------
+Steven Weinberg
+Dreams of a Final Theory
+dict_keys(['air'])
+-------------------------------------------------------
+Amal Kumar Raychaudhuri
+Classical Theory of Electricity and Magnetism
+dict_keys(['sucking'])
+-------------------------------------------------------
+Possenti, Vittorio.;Gallagher, Daniel B.;Schroeder, Brian;
+Nihilism and Metaphysics
+dict_keys([])
+-------------------------------------------------------
+Adam Flamma
+Wiedźmin. Historia fenomenu
+dict_keys([])
+-------------------------------------------------------
+Karl Marx
+The Communist Manifesto in Plain and Simple English (A Modern Translation and the Original Version)
+dict_keys(['frozen', 'air'])
+-------------------------------------------------------
+Karl Marx
+Delphi Collected Works of Karl Marx (Illustrated) (Delphi Series Seven Book 23)
+dict_keys([])
+-------------------------------------------------------
+John Read
+A Straight Talking Introduction to the Causes of Mental Health Problems (Straight Talking Introduction To...)
+dict_keys(['air'])
+-------------------------------------------------------
+Jr., Robert F. Kennedy
+Crimes Against Nature
+dict_keys(['air', 'breathing'])
+-------------------------------------------------------
+Mahmoud Bina
+Philosophy of Science in the Light of the Perennial Wisdom
+dict_keys(['air'])
+-------------------------------------------------------
+Stephanie Foo
+What My Bones Know
+dict_keys(['throat', 'cold', 'air', 'queen', 'breathing'])
+-------------------------------------------------------
+Burstein, Daniel
+Secrets of the code : the unauthorized guide to the mysteries behind the Da Vinci code
+dict_keys([])
+-------------------------------------------------------
+Guy Hart-Davis
+Killer ChatGPT Prompts
+dict_keys([])
+-------------------------------------------------------
+Thomas S. Szasz
+The Myth of Mental Illness
+dict_keys([])
+-------------------------------------------------------
+Max Bennett
+A Brief History of Intelligence
+dict_keys(['cold', 'sucking'])
+-------------------------------------------------------
+Elias Lönnrot
+Kalevala
+dict_keys(['siberian', 'arctic', 'Siberia', 'cold', 'ice', 'air'])
+-------------------------------------------------------
+Doknjas, Joshua
+The AI Revolution in Chess
+dict_keys(['queen'])
+-------------------------------------------------------
+Kent, Steven
+The Ultimate History of Video Games: From Pong to Pokémon and Beyond—The Story Behind the Craze That Touched Our Lives and Changed the World
+dict_keys(['air'])
+-------------------------------------------------------
+Hank Wagner
+Prince of Stories: The Many Worlds of Neil Gaiman
+dict_keys(['princess', 'cold', 'air', 'coffee'])
+-------------------------------------------------------
+Agnieszka Kozłowska
+Wszyscy wyszli z PAKI. Biografia (prawie) każdego kabaretu wraz z instrukcją obsługi
+dict_keys([])
+-------------------------------------------------------
+Han Kang
+Wegetarianka
+dict_keys([])
+-------------------------------------------------------
+Lars Reppesgaard
+Imperium Google
+dict_keys([])
+-------------------------------------------------------
+Michael Goddard
+The Cinema of Raúl Ruiz
+dict_keys([])
+-------------------------------------------------------
+Michael J. Behe
+Dewolucja. Odkrycia naukowe dotyczące DNA wyzwaniem dla darwinizmu
+dict_keys([])
+-------------------------------------------------------
+Patrick Macias
+The Essential Anime Guide
+dict_keys(['ice', 'princess', 'air'])
+-------------------------------------------------------
+Elizabeth Kraft;
+A Cultural History of Comedy in the Age of Enlightenment
+dict_keys([])
+-------------------------------------------------------
+Richard Fox
+Linux with Operating System Concepts 2nd e
+dict_keys([])
+-------------------------------------------------------
+Giuseppe Civitarese;Antonino Ferro;
+A Short Introduction to Psychoanalysis
+dict_keys(['queen', 'air'])
+-------------------------------------------------------
+Jon Agar
+Constant Touch: A Global History of the Mobile Phone
+dict_keys(['cold war', 'cold', 'coffee'])
+-------------------------------------------------------
+Alexandra Y. Aikhenvald;
+The Oxford Handbook of Evidentiality
+dict_keys([])
+-------------------------------------------------------
+Phillip Johnson
+Make Your Own Python Text Adventure
+dict_keys([])
+-------------------------------------------------------
+Butler, Jill
+Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design
+dict_keys(['freeze'])
+-------------------------------------------------------
+Apollonius of Rhodes
+Jason and the Argonauts
+dict_keys(['princess', 'queen'])
+-------------------------------------------------------
+Kristin Andrews,Jacob Beck
+The Routledge Handbook of Philosophy of Animal Minds
+dict_keys(['queen', 'air'])
+-------------------------------------------------------
+Israel Finkelstein
+The Bible Unearthed: Archaeology's New Vision of Ancient Isreal and the Origin of Sacred Texts
+dict_keys([])
+-------------------------------------------------------
+Andrew McConnell Stott;
+A Cultural History of Comedy in the Early Modern Age
+dict_keys(['queen', 'breath'])
+-------------------------------------------------------
+B. A. Paris
+Na skraju załamania
+dict_keys([])
+-------------------------------------------------------
+B. A. Paris
+Terapeutka
+dict_keys([])
+-------------------------------------------------------
+B. A. Paris
+Dylemat
+dict_keys([])
+-------------------------------------------------------
+Cameron Newham
+Learning the bash Shell, 3rd Edition
+dict_keys([])
+-------------------------------------------------------
+Hugh Bowden
+Mystery Cults in the Ancient World
+dict_keys(['air', 'breathing', 'princess'])
+-------------------------------------------------------
+Kevin S. Decker
+Dune and Philosophy
+dict_keys(['coffee', 'cool', 'princess'])
+-------------------------------------------------------
+Naomi Carr
+Uprooting Shame and Guilt: A Journey to Healing Trauma and Freeing the Inner Child
+dict_keys(['coffee', 'throat', 'breath'])
+-------------------------------------------------------
+Albert Camus
+Caligula and Three Other Plays
+dict_keys(['breath'])
+-------------------------------------------------------
+Albert Camus
+The Myth of Sisyphus and Other Essays
+dict_keys(['cold'])
+-------------------------------------------------------
+Richard Joyce;
+The Routledge Handbook of Evolution and Philosophy
+dict_keys([])
+-------------------------------------------------------
+Lori Watson;Clare Chambers;Brian D. Earp;
+The Routledge Handbook of Philosophy of Sex and Sexuality
+dict_keys([])
+-------------------------------------------------------
+Alfred V. Aho
+The AWK Programming Language, 2nd Edition (for True Epub)
+dict_keys([])
+-------------------------------------------------------
+Łukasz Lamża
+Przekrój przez Wszechświat
+dict_keys([])
+-------------------------------------------------------
+Joseph Conrad
+Jądro ciemności 2017
+dict_keys([])
+-------------------------------------------------------
+Robert Service
+Comrades
+dict_keys(['cold war', 'cold', 'arctic', 'ice'])
+-------------------------------------------------------
+Madison, David
+[Main title here]
+dict_keys(['air', 'frozen'])
+-------------------------------------------------------
+Susan Greenfield
+Mind Change
+dict_keys(['cold', 'coffee', 'air'])
+-------------------------------------------------------
+Susan Greenfield
+Tomorrow's People
+dict_keys(['air', 'cool'])
+-------------------------------------------------------
+Susan Greenfield
+A Day in the Life of the Brain
+dict_keys(['breaths'])
+-------------------------------------------------------
+Susan Greenfield
+You and Me
+dict_keys(['ice'])
+-------------------------------------------------------
+Susan Greenfield
+The Private Life of the Brain
+dict_keys(['coffee', 'queen', 'throat', 'breathing'])
+-------------------------------------------------------
+Geoffrey P. Kramer
+Introduction to Clinical Psychology, 8/e
+dict_keys([])
+-------------------------------------------------------
+Hugh Howey
+Silos 1 - Silos
+dict_keys([])
+-------------------------------------------------------
+Hugh Howey
+Silos 2 - Zmiana
+dict_keys([])
+-------------------------------------------------------
+Hugh Howey
+Silos 3 - Pył
+dict_keys([])
+-------------------------------------------------------
+Lisa Murnan
+How to Get a UX Design Job: Create a compelling portfolio, submit a stand-out application, and ace the interview to land your user experience dream job
+dict_keys(['cool'])
+-------------------------------------------------------
+Gerhard Schurz
+Philosophy of Science
+dict_keys([])
+-------------------------------------------------------
+Tzioumakis, Yannis;
+American Independent Cinema
+dict_keys([])
+-------------------------------------------------------
+Robert Wright
+The Moral Animal: Why We Are, the Way We Are: The New Science of Evolutionary Psychology
+dict_keys(['air'])
+-------------------------------------------------------
+The Best Time Travel Stories of the 20th Century
+Harry Turtledove
+dict_keys(['cool', 'air'])
+-------------------------------------------------------
+Marion Gibson
+Witchcraft: The Basics
+dict_keys(['princess', 'suck', 'queen'])
+-------------------------------------------------------
+Philip Kitcher
+Life after Faith
+dict_keys(['cold'])
+-------------------------------------------------------
+Jan Machielsen;
+The Science of Demons
+dict_keys(['queen'])
+-------------------------------------------------------
+Stewart A. McDowall
+Beauty and the Beast
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+Allison Parrish
+Getting Started with Processing.py
+dict_keys([])
+-------------------------------------------------------
+Jeremi Szaniawski
+The Cinema of Alexander Sokurov
+dict_keys([])
+-------------------------------------------------------
+Roy Sorensen
+Nothing
+dict_keys(['air'])
+-------------------------------------------------------
+Gerard O’Regan
+A Brief History of Computing
+dict_keys(['air'])
+-------------------------------------------------------
+Gerard O'Regan
+Introduction to the History of Computing
+dict_keys(['air'])
+-------------------------------------------------------
+Mikołaj Starzyński
+Antynatalizm, O niemoralności płodzenia dzieci
+dict_keys([])
+-------------------------------------------------------
+Dr. David J. Lieberman, Ph.D.
+Never Get Angry Again
+dict_keys(['cool', 'coffee'])
+-------------------------------------------------------
+Frank Herbert
+14. Heretycy Diuny
+dict_keys([])
+-------------------------------------------------------
+Frank Herbert
+08. Diuna
+dict_keys([])
+-------------------------------------------------------
+Frank Herbert
+13. Bóg Imperaror Diuny
+dict_keys([])
+-------------------------------------------------------
+Frank Herbert
+10. Mesjasz Diuny
+dict_keys([])
+-------------------------------------------------------
+Frank Herbert
+15. Kapitularz Diuną
+dict_keys([])
+-------------------------------------------------------
+Frank Herbert
+12. Dzieci Diuny
+dict_keys([])
+-------------------------------------------------------
+Albert Schweitzer
+The Quest of the Historical Jesus
+dict_keys([])
+-------------------------------------------------------
+Peter Adamson
+Classical Indian Philosophy
+dict_keys(['chill'])
+-------------------------------------------------------
+Vandiver, Donna
+Sex Crimes and Sex Offenders
+dict_keys(['air', 'queen'])
+-------------------------------------------------------
+Gary Elkins
+Introduction to Clinical Hypnosis: The Basics and Beyond
+dict_keys([])
+-------------------------------------------------------
+Giovannelli, Alessandro;
+Aesthetics - Key Thinkers
+dict_keys([])
+-------------------------------------------------------
+Natasha Maurits
+Math for Scientists
+dict_keys([])
+-------------------------------------------------------
+Martha Kauppi
+Polyamory
+dict_keys(['freeze', 'breathing', 'breath', 'breaths'])
+-------------------------------------------------------
+David J. Lieberman
+Never Be Lied to Again
+dict_keys(['throat', 'air', 'coffee'])
+-------------------------------------------------------
+Rivkin, Julie; Ryan, Michael;
+Literary Theory
+dict_keys(['ice'])
+-------------------------------------------------------
+Timothy Ferris
+Coming of Age in the Milky Way
+dict_keys(['air'])
+-------------------------------------------------------
+Dawid Rogacz;
+Chinese Philosophy of History
+dict_keys(['queen'])
+-------------------------------------------------------
+Paul Parsons
+The Beginning and the End of Everything
+dict_keys(['air', 'ice'])
+-------------------------------------------------------
+Ed Simon
+Heaven, Hell and Paradise Lost
+dict_keys(['queen', 'cold', 'air', 'breath'])
+-------------------------------------------------------
+Christopher Hitchens
+God Is Not Great: How Religion Poisons Everything
+dict_keys(['princess'])
+-------------------------------------------------------
+Brad Warner
+Sex, Sin and Zen
+dict_keys(['chill', 'air', 'cold'])
+-------------------------------------------------------
+Martin McBride
+Computer graphics in Python: Advanced vector graphics using Pycairo and Python
+dict_keys([])
+-------------------------------------------------------
+Stanislas Dehaene
+How We Learn
+dict_keys([])
+-------------------------------------------------------
+John Ajvide Lindqvist
+I Am Behind You
+dict_keys(['air', 'breathing', 'coffee', 'princess'])
+-------------------------------------------------------
+Susan Llewelyn
+Clinical Psychology
+dict_keys(['cold war', 'cold', 'ice'])
+-------------------------------------------------------
+Thomas Flynn
+Existentialism: A Very Short Introduction
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Cheng'en,Wu
+Journey to the West: The Monkey King's Amazing Adventures (Tuttle Classics)
+dict_keys(['princess', 'frozen', 'queen'])
+-------------------------------------------------------
+Gilbert McInnis;
+Kurt Vonnegut
+dict_keys([])
+-------------------------------------------------------
+Dany Nobus
+Perversion
+dict_keys(['queen'])
+-------------------------------------------------------
+Peter Vorderer;Christoph Klimmt;
+The Oxford Handbook of Entertainment Theory
+dict_keys(['coffee'])
+-------------------------------------------------------
+Paul J. Zak
+The Moral Molecule
+dict_keys(['ice', 'breathing', 'coffee', 'cold'])
+-------------------------------------------------------
+Paul J. Zak
+Trust Factor
+dict_keys(['freeze'])
+-------------------------------------------------------
+Martin, Adrienne M.;
+The Routledge Handbook of Love in Philosophy
+dict_keys([])
+-------------------------------------------------------
+Michael Chabon
+Poświata
+dict_keys([])
+-------------------------------------------------------
+Michael Chabon
+Niesamowite przygody Kavaliera i Claya
+dict_keys([])
+-------------------------------------------------------
+Farid Zahnoun;
+The Embodiment of Meaning
+dict_keys(['breath'])
+-------------------------------------------------------
+Rolf Giesen;
+The Nosferatu Story
+dict_keys(['breaths', 'air'])
+-------------------------------------------------------
+Michael P. Wolf;
+Philosophy of Language: 50 Puzzles, Paradoxes, and Thought Experiments
+dict_keys([])
+-------------------------------------------------------
+J. Thorn
+Three Story Method
+dict_keys([])
+-------------------------------------------------------
+Bruce M. Rowe;Diane P. Levine;
+A Concise Introduction to Linguistics
+dict_keys(['breathing', 'air'])
+-------------------------------------------------------
+Darrell L. Brock PH.D.
+Breaking the Da Vinci Code
+dict_keys([])
+-------------------------------------------------------
+Curtin, Maureen F.;
+Out of Touch: Skin tropes and Identities in Woolf, Ellison, Pynchon and Acker
+dict_keys([])
+-------------------------------------------------------
+Simon Callow
+Orson Welles vol 2: Hello Americans
+dict_keys(['air', 'ice', 'arctic'])
+-------------------------------------------------------
+Simon Callow
+Orson Welles, Vol I
+dict_keys(['air'])
+-------------------------------------------------------
+Simon Callow
+Orson Welles, Volume 3
+dict_keys(['air'])
+-------------------------------------------------------
+Ryan Britt
+Phasers on Stun!: How the Making (and Remaking) of Star Trek Changed the World
+dict_keys(['coffee', 'cold', 'cool', 'air'])
+-------------------------------------------------------
+Ryan Britt
+Luke Skywalker Can't Read
+dict_keys(['cool', 'queen'])
+-------------------------------------------------------
+Ryan Britt
+The Spice Must Flow: The Story of Dune, from Cult Novels to Visionary Sci-Fi Movies
+dict_keys(['cool', 'princess', 'air'])
+-------------------------------------------------------
+Gary Lachman
+The Dedalus Book of Literary Suicides
+dict_keys(['throat', 'air', 'cold', 'breath'])
+-------------------------------------------------------
+Lisa Guenther, Scott Zeman, Geoffrey Adelsberg
+Death and Other Penalties
+dict_keys([])
+-------------------------------------------------------
+Andre Gide
+Lochy Watykanu
+dict_keys([])
+-------------------------------------------------------
+Andre Gide
+Fałszerze
+dict_keys([])
+-------------------------------------------------------
+Christopher Partridge
+Introduction to World Religions: Second Edition
+dict_keys(['queen'])
+-------------------------------------------------------
+Geoffrey Sloan
+Geopolitics, Geography and Strategic History
+dict_keys(['cold war', 'cold', 'arctic'])
+-------------------------------------------------------
+Publius Cornelius Tacitus
+Complete Works of Tacitus (Delphi Classics) (Delphi Ancient Classics Book 24)
+dict_keys(['cold'])
+-------------------------------------------------------
+Kuljit Bhogal;
+Cornerstone on Anti-social Behaviour
+dict_keys([])
+-------------------------------------------------------
+Sue Prideaux
+I Am Dynamite!
+dict_keys(['cool', 'air', 'throat', 'queen', 'princess'])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 28 - Przyjdź i zgiń
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 7 - Śmierć lorda Edgware'a
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 22 - Pora przypływu
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 6 - Samotny dom
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 18 - Zerwane zaręczyny
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 14 - Śmierć na Nilu
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 17 - Morderstwo w Boże Narodzenie
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 15 - Niemy świadek
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 32 - Kurtyna
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 31 - Słonie mają dobrą pamięć
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 24 - Po pogrzebie
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 3 - Zabójstwo Rogera Ackroyda
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 26 - Zbrodnia na festynie
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 5 - Zagadka Błękitnego Expresu
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 19 - Zło, które żyje pod słońcem
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 12 - Morderstwo w Mezopotamii
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 25 - Entliczek pentliczek
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 9 - Tragedia w trzech aktach
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 1 - Tajemnicza historia w Styles
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 29 - Trzecia lokatorka
+dict_keys(['queen'])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 23 - Pani McGinty nie żyje
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Pierwsze, drugie, zapnij mi obuwie
+dict_keys(['queen'])
+-------------------------------------------------------
+Agata Christie
+Morderstwo w zaułku - opowiadania 2
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 2 - Morderstwo na polu golfowym
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 8 - Morderstwo w Orient Expresie
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 20 - Pięć małych świnek
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 13 - Karty na stół
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Dwanaście prac Herkulesa - opowiadania 3
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Wczesne sprawy Poirota - opowiadania 4
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 4 -Wielka czwórka
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 16 - Rendez-vous ze śmiercią
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Poirot prowadzi śledztwo - opowiadania 1
+dict_keys([])
+-------------------------------------------------------
+Agata Christie
+Herkules Poirot 30 - Wigilia Wszystkich Świętych
+dict_keys([])
+-------------------------------------------------------
+David Charles;
+The History of Hylomorphism
+dict_keys([])
+-------------------------------------------------------
+GALLAGHER, CHARLIE
+HE IS WATCHING YOU an absolutely gripping crime thriller with a massive twist
+dict_keys(['chill', 'air', 'breaths', 'breath', 'breathing'])
+-------------------------------------------------------
+Dr. Ranjana Rajnish
+Web Data Mining with Python: Discover and extract information from the web using Python
+dict_keys([])
+-------------------------------------------------------
+Israel, Jonathan
+Democratic Enlightenment
+dict_keys([])
+-------------------------------------------------------
+Louis P. Pojman;
+Justice: An Anthology
+dict_keys([])
+-------------------------------------------------------
+Matthew Kaiser;
+A Cultural History of Comedy in the Age of Empire
+dict_keys(['queen'])
+-------------------------------------------------------
+Chlo Deambrogio;
+Judging Insanity, Punishing Difference
+dict_keys([])
+-------------------------------------------------------
+Bolton, Christopher
+Robot Ghosts and Wired Dreams: Japanese Science Fiction from Origins to Anime
+dict_keys(['cold war', 'cold', 'ice'])
+-------------------------------------------------------
+Donna Kornhaber
+Wes Anderson
+dict_keys(['cool', 'cold'])
+-------------------------------------------------------
+Ikraam Gangat
+ChatGPT for Writers
+dict_keys([])
+-------------------------------------------------------
+Daren C. Brabham
+Crowdsourcing
+dict_keys([])
+-------------------------------------------------------
+Thomas F. Marvin
+Kurt Vonnegut
+dict_keys(['air', 'cool'])
+-------------------------------------------------------
+Karol Marks
+Praca najemna i kapitał
+dict_keys([])
+-------------------------------------------------------
+Yvonne Howell
+Red Star Tales: A Century Of Russian And Soviet Science Fiction
+dict_keys(['air', 'frozen', 'cold', 'chill', 'ice', 'breath'])
+-------------------------------------------------------
+Franz Kafka
+Zamek
+dict_keys([])
+-------------------------------------------------------
+Peter Antonioni, Sean Masaki Flynn
+Ekonomia dla bystrzaków. Wydanie II
+dict_keys([])
+-------------------------------------------------------
+Paul Mutton
+IRC Hacks
+dict_keys([])
+-------------------------------------------------------
+Guy Deutscher
+The Unfolding of Language
+dict_keys(['air', 'breath', 'cold', 'sucking'])
+-------------------------------------------------------
+Desconocido
+Practical Swarm Intelligence in Python by Ron Kneusel
+dict_keys([])
+-------------------------------------------------------
+Nanelle R. Barash
+Madame Bovary's Ovaries: A Darwinian Look at Literature
+dict_keys(['breathing', 'cold'])
+-------------------------------------------------------
+Nanelle R. Barash
+Madame Bovary's Ovaries: A Darwinian Look at Literature
+dict_keys(['breathing', 'cold'])
+-------------------------------------------------------
+Kevin Ferguson
+Deep Learning and the Game of Go
+dict_keys([])
+-------------------------------------------------------
+Haldeman Joe;Haldeman Jack C. II
+Nie ma ciemności (1983)
+dict_keys([])
+-------------------------------------------------------
+Schopenhauer, Arthur; Carus, David; Aquila, Richard
+Arthur Schopenhauer: The World as Will and Presentation
+dict_keys(['breathing', 'cold', 'air'])
+-------------------------------------------------------
+Susan Magsamen
+Your Brain on Art
+dict_keys(['coffee', 'breathing', 'cool', 'freeze'])
+-------------------------------------------------------
+Cannon, Jason
+Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming
+dict_keys([])
+-------------------------------------------------------
+Richard E. Aquila
+Arthur Schopenhauer
+dict_keys([])
+-------------------------------------------------------
+Antony Cummins
+The Ultimate Unofficial Guide to Tolkien's World
+dict_keys(['ice'])
+-------------------------------------------------------
+Ugo Zilioli;
+Protagoras and the Challenge of Relativism
+dict_keys(['cold'])
+-------------------------------------------------------
+Clementine Ford
+I Don't
+dict_keys(['princess', 'queen', 'cool'])
+-------------------------------------------------------
+Paul Kelly
+The Politics Book
+dict_keys([])
+-------------------------------------------------------
+Wootton, David;
+Bad Medicine
+dict_keys(['queen', 'cool', 'cold'])
+-------------------------------------------------------
+Eleanor Robson;Jacqueline Stedall;
+The Oxford Handbook of the History of Mathematics
+dict_keys([])
+-------------------------------------------------------
+DK
+The Math Book
+dict_keys([])
+-------------------------------------------------------
+DK
+The Physics Book
+dict_keys(['air', 'queen', 'ice'])
+-------------------------------------------------------
+DK
+Love
+dict_keys(['cool', 'breathing'])
+-------------------------------------------------------
+DK
+The Biology Book
+dict_keys(['air'])
+-------------------------------------------------------
+DK
+The Poetry Book
+dict_keys(['throat', 'queen'])
+-------------------------------------------------------
+DK
+The Chemistry Book
+dict_keys(['throat', 'air', 'ice', 'frozen', 'cold'])
+-------------------------------------------------------
+DK
+The Law Book
+dict_keys(['queen', 'cool', 'cold'])
+-------------------------------------------------------
+DK
+The Astronomy Book
+dict_keys(['air'])
+-------------------------------------------------------
+DK
+The Mythology Book
+dict_keys(['queen', 'breathing'])
+-------------------------------------------------------
+DK
+The Sociology Book (Big Ideas Simply Explained)
+dict_keys(['queen', 'cold'])
+-------------------------------------------------------
+DK
+The Movie Book
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+DK
+The Shakespeare Book
+dict_keys(['breath', 'queen', 'air'])
+-------------------------------------------------------
+DK
+History Book
+dict_keys(['ice', 'freeze', 'cold', 'Siberia', 'air'])
+-------------------------------------------------------
+Julien Musolino
+The Soul Fallacy
+dict_keys([])
+-------------------------------------------------------
+Ellenberg, Henri F.
+The discovery of the unconscious
+dict_keys(['air', 'sucking', 'Siberia'])
+-------------------------------------------------------
+Mimi Schippers
+Polyamory, Monogamy, and American Dreams
+dict_keys(['queen'])
+-------------------------------------------------------
+Adam L. Kern
+The Penguin Book of Haiku
+dict_keys([])
+-------------------------------------------------------
+Harold Goldberg
+All Your Base Are Belong to Us: How Fifty Years of Videogames Conquered Pop Culture
+dict_keys(['suck', 'princess', 'cold', 'frozen', 'air', 'breathing', 'cold war'])
+-------------------------------------------------------
+Rory Sutherland
+Alchemia. Zaskakująca moc pomysłów, które pozornie nie mają sensu
+dict_keys([])
+-------------------------------------------------------
+Rosenberg, Alex
+The Atheist's Guide to Reality: Enjoying Life without Illusions
+dict_keys([])
+-------------------------------------------------------
+Barash, David P.
+Buddhist Biology: Ancient Eastern Wisdom Meets Modern Western Science
+dict_keys(['air'])
+-------------------------------------------------------
+Hanna Rosin
+Are Men Obsolete?
+dict_keys(['cold'])
+-------------------------------------------------------
+Stokes, Ryan E.;Collins, John J.;
+The Satan
+dict_keys([])
+-------------------------------------------------------
+J.L. Mackie
+Ethics: Inventing Right and Wrong
+dict_keys([])
+-------------------------------------------------------
+William H. Calvin
+How Brains Think (SCIENCE MASTERS)
+dict_keys(['ice', 'air', 'queen'])
+-------------------------------------------------------
+Susan Scott
+Fierce Love
+dict_keys(['cool', 'air', 'queen', 'coffee'])
+-------------------------------------------------------
+Ian Cummins
+Critical Psychiatry
+dict_keys([])
+-------------------------------------------------------
+Walter Kaufmann
+On the Genealogy of Morals and Ecce Homo
+dict_keys(['cold'])
+-------------------------------------------------------
+Peter Frankopan
+Jedwabne szlaki. Nowa historia świata.
+dict_keys([])
+-------------------------------------------------------
+Monica Filimon
+Cristi Puiu
+dict_keys(['coffee'])
+-------------------------------------------------------
+Davies, James; 
+Sedated
+dict_keys(['coffee'])
+-------------------------------------------------------
+Morten Nissen
+Rearticulating Motives
+dict_keys([])
+-------------------------------------------------------
+Einstein, Albert;Greene, Brian;
+The Meaning of Relativity
+dict_keys(['air'])
+-------------------------------------------------------
+Greig I. de Zubicaray;Niels O. Schiller;
+The Oxford Handbook of Neurolinguistics
+dict_keys([])
+-------------------------------------------------------
+Sweeney, Kevin W.;
+The Philosophical Contexts of Sartre’s The Wall and Other Stories
+dict_keys([])
+-------------------------------------------------------
+Cunning Minx
+Eight Things I Wish I'd Known About Polyamory
+dict_keys([])
+-------------------------------------------------------
+Aymen El Amri @eon01
+LLM Prompt Engineering For Developers
+dict_keys([])
+-------------------------------------------------------
+Michael Tanner
+Nietzsche: A Very Short Introduction
+dict_keys(['cold war', 'cold', 'cool'])
+-------------------------------------------------------
+Sanko
+Land of the Reed Plains
+dict_keys(['princess', 'air'])
+-------------------------------------------------------
+James Naremore
+The Magic World of Orson Welles
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Jenkins, John Philip
+The Lost History of Christianity
+dict_keys([])
+-------------------------------------------------------
+Grigorov, Vito
+Origin of Why? The Proven Purpose and Meaning of Life
+dict_keys(['suck'])
+-------------------------------------------------------
+Jonardon Ganeri
+The Oxford Handbook of Indian Philosophy (Oxford Handbooks)
+dict_keys(['air'])
+-------------------------------------------------------
+Robert Bauval, Graham Hancock
+Strażnik tajemnic
+dict_keys([])
+-------------------------------------------------------
+Minas Papageorgiou
+Jesus Mythicism: An Introduction
+dict_keys([])
+-------------------------------------------------------
+Claus Kiefer
+Kwantowy kosmos. Od wczesnego świata do rozszerzającego się uniwersum
+dict_keys([])
+-------------------------------------------------------
+Monty Lyman
+The Painful Truth
+dict_keys(['cool'])
+-------------------------------------------------------
+Giancarlo Zaccone
+Natural Computing with Python
+dict_keys([])
+-------------------------------------------------------
+Wright, Jacob L.
+Why the Bible Began
+dict_keys(['queen'])
+-------------------------------------------------------
+Matthew Chrisman
+What is this thing called Metaethics?
+dict_keys([])
+-------------------------------------------------------
+James Smith
+How to Remember Equations and Formulae: The LEAF System
+dict_keys(['air'])
+-------------------------------------------------------
+Peter Watson
+Modern Mind: An Intellectual History of the 20th Century
+dict_keys(['cold', 'ice', 'cold war', 'air', 'breathing'])
+-------------------------------------------------------
+Jonas Salzgeber
+Mała księga stoicyzmu
+dict_keys([])
+-------------------------------------------------------
+Jelte Rep
+The Great Mahjong Book
+dict_keys(['air'])
+-------------------------------------------------------
+Jean-Pierre Boulé and Enda McCaffrey
+Existentialism and Contemporary Cinema
+dict_keys([])
+-------------------------------------------------------
+Newton, Isaac,Budenz, Julia,Whitman, Anne Miller,Cohen, I. Bernard
+The Principia: The Authoritative Translation
+dict_keys([])
+-------------------------------------------------------
+Jack Ray
+Ice Cream And Suicide
+dict_keys(['ice', 'breath', 'cold', 'cool', 'coffee'])
+-------------------------------------------------------
+Eco, Umberto
+From the Tree to the Labyrinth
+dict_keys(['air'])
+-------------------------------------------------------
+Derek Lin
+The Tao of Daily Life
+dict_keys(['princess', 'coffee'])
+-------------------------------------------------------
+Derek Lin
+The Tao of Joy Every Day
+dict_keys(['chill', 'breath'])
+-------------------------------------------------------
+Derek Lin
+The Tao of Success
+dict_keys([])
+-------------------------------------------------------
+Derek Lin
+Untitled
+dict_keys(['cold', 'cool'])
+-------------------------------------------------------
+Jacob Neusner
+The Midrash
+dict_keys([])
+-------------------------------------------------------
+Debbie Haski-Leventhal
+Make it Meaningful
+dict_keys(['air', 'queen'])
+-------------------------------------------------------
+Laurence Sterne
+The Life and Opinions of Tristram Shandy, Gentleman
+dict_keys([])
+-------------------------------------------------------
+Laurence Sterne
+Tristram Shandy
+dict_keys(['cold', 'breath', 'air', 'queen'])
+-------------------------------------------------------
+Mauricio R. Papini
+Comparative Psychology: Evolution and Development of Behavior, 2nd Edition
+dict_keys(['air'])
+-------------------------------------------------------
+Lloyd Michaels
+Terrence Malick
+dict_keys(['princess', 'cold'])
+-------------------------------------------------------
+Colin Salter
+100 Novels That Changed the World
+dict_keys(['cold', 'queen', 'air'])
+-------------------------------------------------------
+Oscar Korschelt
+Theory and Practice of GO
+dict_keys([])
+-------------------------------------------------------
+Henry Hazlitt
+Ekonomia w jednej lekcji
+dict_keys([])
+-------------------------------------------------------
+Dr med. Caroline Apovian i Frances Sharpe
+Dieta nocna. Jedz w dzień, chudnij w nocy!
+dict_keys([])
+-------------------------------------------------------
+Lorenz, Konrad, 1903-
+Behind the mirror : a search for a natural history of human knowledge
+dict_keys(['cold'])
+-------------------------------------------------------
+John Philip Jenkins
+Jesus Wars
+dict_keys([])
+-------------------------------------------------------
+Terence Hines
+Pseudoscience and the Paranormal
+dict_keys(['cold', 'air', 'ice'])
+-------------------------------------------------------
+Mary Mann
+Yawn
+dict_keys(['chill', 'breath', 'throat', 'air', 'ice', 'coffee'])
+-------------------------------------------------------
+Lola Phoenix
+The Anxious Person's Guide to Non-Monogamy
+dict_keys([])
+-------------------------------------------------------
+Mark A. Vieira
+Into the Dark: The Hidden World of Film Noir, 1941 - 1950
+dict_keys(['queen'])
+-------------------------------------------------------
+Simon Malpas
+Thomas Pynchon & the dark passages of history
+dict_keys(['air', 'breathing', 'frozen', 'freeze', 'cool', 'hockey', 'cold'])
+-------------------------------------------------------
+Catherine A. Gorini;
+Geometry for the Artist
+dict_keys([])
+-------------------------------------------------------
+Karen Rose
+I'm Watching You
+dict_keys(['cold', 'breath', 'frozen', 'throat', 'coffee'])
+-------------------------------------------------------
+Erich von Däniken
+Ciekawość zakazana
+dict_keys([])
+-------------------------------------------------------
+Erich von Däniken
+Wspomnienia z przyszłości
+dict_keys(['air'])
+-------------------------------------------------------
+Erich von Däniken
+Poszukiwacze zaginionej wiedzy
+dict_keys([])
+-------------------------------------------------------
+Albeiro Patiño Builes
+Electricity for beginners: From zero to master
+dict_keys([])
+-------------------------------------------------------
+Charlie Keil;Rob King;
+The Oxford Handbook of Silent Cinema
+dict_keys(['coffee'])
+-------------------------------------------------------
+Ernst Mayr
+One Long Argument
+dict_keys([])
+-------------------------------------------------------
+Qi Feng
+A Concise History of Chinese Philosophy
+dict_keys([])
+-------------------------------------------------------
+James Davies;
+The Sedated Society
+dict_keys(['breath'])
+-------------------------------------------------------
+Daniel Simons
+Nobody's Fool
+dict_keys(['frozen'])
+-------------------------------------------------------
+Ligotti, Thomas
+The Conspiracy against the Human Race: A Contrivance of Horror
+dict_keys([])
+-------------------------------------------------------
+Gerald Weinberg
+The Psychology of Computer Programming: Silver Anniversary eBook Edition
+dict_keys([])
+-------------------------------------------------------
+Viktor E. Frankl
+Yes to Life
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Viktor E. Frankl
+The Will to Meaning
+dict_keys(['breath'])
+-------------------------------------------------------
+Viktor E. Frankl
+The Doctor and the Soul
+dict_keys(['cold', 'breath'])
+-------------------------------------------------------
+Mary Roach
+Spook
+dict_keys(['air'])
+-------------------------------------------------------
+Kaplan, Jerry;
+Generative Artificial Intelligence
+dict_keys(['cold', 'queen', 'air', 'chill'])
+-------------------------------------------------------
+Michael Muthukrishna
+A Theory of Everyone
+dict_keys(['air', 'coffee'])
+-------------------------------------------------------
+David Day
+Alice's Adventures in Wonderland Decoded
+dict_keys(['queen', 'cold', 'breath', 'princess'])
+-------------------------------------------------------
+Conrad Kottak
+Cultural Anthropology: Appreciating Cultural Diversity
+dict_keys([])
+-------------------------------------------------------
+Steven Goodwin
+20 Goto 10
+dict_keys(['air'])
+-------------------------------------------------------
+Alexander Rosenberg
+Philosophy of Social Science
+dict_keys(['ice'])
+-------------------------------------------------------
+Don DeLillo
+Podziemia
+dict_keys([])
+-------------------------------------------------------
+Don DeLillo
+Anioł Esmeralda
+dict_keys([])
+-------------------------------------------------------
+Joshua Farris;Benedikt Paul Gcke;
+The Routledge Handbook of Idealism and Immaterialism
+dict_keys(['air'])
+-------------------------------------------------------
+Andrew Fisher
+Metaethics
+dict_keys([])
+-------------------------------------------------------
+Mittal, Sushil; Thursby, Gene; 
+The Hindu World
+dict_keys(['air'])
+-------------------------------------------------------
+Massimo Pigliucci
+Bujda na resorach. Jak odróżnić naukę od bredni
+dict_keys([])
+-------------------------------------------------------
+William Shakespeare
+William Shakespeare Complete Works Second Edition
+dict_keys(['queen', 'princess', 'oral sex', 'air'])
+-------------------------------------------------------
+Alan Beaulieu
+Learning SQL, 3rd Edition
+dict_keys([])
+-------------------------------------------------------
+Ernest Lepore;David Sosa;
+Oxford Studies in Philosophy of Language Volume 3
+dict_keys([])
+-------------------------------------------------------
+Michio Kaku
+The God Equation
+dict_keys(['air'])
+-------------------------------------------------------
+Alan S. Kahan
+Freedom from Fear
+dict_keys([])
+-------------------------------------------------------
+Cole Riley
+Hot to the Touch
+dict_keys(['throat', 'air', 'breath'])
+-------------------------------------------------------
+Roger Jones
+Western Europe--Culture Smart!
+dict_keys(['coffee', 'cool'])
+-------------------------------------------------------
+Matteo Colombo
+Andy Clark and His Critics
+dict_keys([])
+-------------------------------------------------------
+Daston, Lorraine;
+Against Nature
+dict_keys(['siberian'])
+-------------------------------------------------------
+Mara van der Lugt;
+Dark Matters
+dict_keys(['frozen'])
+-------------------------------------------------------
+Lilley, James D.;
+Cormac Mccarthy
+dict_keys(['cold'])
+-------------------------------------------------------
+Coutinho, Steve; Bilimoria, Professor Purushottama; Cooper, Professor David E.
+Zhuangzi and Early Chinese Philosophy
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan, Brandon Sanderson
+13. Bastiony mroku
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan, Brandon Sanderson
+14. Pamięć Światłości
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan, Brandon Sanderson
+12. Pomruki burzy
+dict_keys([])
+-------------------------------------------------------
+Bas C. van Fraassen;
+Scientific Representation
+dict_keys([])
+-------------------------------------------------------
+David Detmer
+Phenomenology Explained
+dict_keys([])
+-------------------------------------------------------
+Jerry A. Coyne
+Why Evolution Is True
+dict_keys(['breath'])
+-------------------------------------------------------
+Valentina Alto
+Building LLM Apps
+dict_keys(['cold'])
+-------------------------------------------------------
+Valentina Alto
+Modern Generative AI with ChatGPT and OpenAI Models
+dict_keys([])
+-------------------------------------------------------
+Lee Beard
+30-Second Great Art
+dict_keys(['princess'])
+-------------------------------------------------------
+Jennifer Welsh
+The Return of History: Conflict, Migration, and Geopolitics in the Twenty-First Century (CBC Massey Lectures)
+dict_keys(['cold war', 'cold', 'breath'])
+-------------------------------------------------------
+Marek Haltof
+The Cinema of Krzysztof Kieslowski
+dict_keys(['air'])
+-------------------------------------------------------
+Paul Singh
+Great Illusion - Paul Singh
+dict_keys([])
+-------------------------------------------------------
+Philo of Alexandria
+Philo Complete Works
+dict_keys(['air', 'breath', 'cold'])
+-------------------------------------------------------
+John Dunn; Shamil Khairov
+Modern Russian Grammar Workbook
+dict_keys([])
+-------------------------------------------------------
+John Dunn; Shamil Khairov
+Modern Russian Grammar
+dict_keys([])
+-------------------------------------------------------
+Thompson, Thomas L
+The Messiah Myth: The Near Eastern Roots of Jesus and David
+dict_keys([])
+-------------------------------------------------------
+Sönke Ahrens
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers
+dict_keys(['breathing', 'coffee'])
+-------------------------------------------------------
+GAIMAN NEIL REAVES MICHAEL
+Interswiat
+dict_keys([])
+-------------------------------------------------------
+Weinstein, Bonnie
+To the Far Right Christian Hater...You Can Be a Good Speller or a Hater, But You Can't Be Both
+dict_keys(['air', 'coffee', 'breath', 'suck'])
+-------------------------------------------------------
+Dorota Masłowska
+Wojna polsko-ruska pod flagą biało-czerwoną
+dict_keys([])
+-------------------------------------------------------
+Robin Wilson
+Lewis Carroll in Numberland
+dict_keys(['queen', 'breath'])
+-------------------------------------------------------
+Atkins, Paul W. B.;Wilson, David Sloan.;Hayes, Steven C.;
+Prosocial
+dict_keys([])
+-------------------------------------------------------
+Dr Tim Beanland
+Mind Games
+dict_keys(['ice', 'queen', 'cool'])
+-------------------------------------------------------
+Matt Ridley
+The Origins of Virtue
+dict_keys(['queen', 'Siberia', 'siberian', 'cool', 'ice', 'cold'])
+-------------------------------------------------------
+Bernd Magnus
+The Cambridge Companion to Nietzsche
+dict_keys([])
+-------------------------------------------------------
+Geoffrey Parker
+The Geopolitics of Domination
+dict_keys([])
+-------------------------------------------------------
+Geoffrey Nowell-Smith
+Making Waves
+dict_keys([])
+-------------------------------------------------------
+Bruce Ross;
+Writing Haiku
+dict_keys(['Antarctica', 'frozen'])
+-------------------------------------------------------
+Michael Haag
+Inferno Decoded
+dict_keys(['frozen'])
+-------------------------------------------------------
+Jose Carlos Somoza
+Jaskinia filozofów
+dict_keys([])
+-------------------------------------------------------
+Jose Carlos Somoza
+Szkatułka z kości słoniowej
+dict_keys([])
+-------------------------------------------------------
+José Carlos Somoza
+Klucz do otchłani
+dict_keys([])
+-------------------------------------------------------
+Jose Carlos Somoza
+Szczegol. Trzy krotkie powiesci
+dict_keys([])
+-------------------------------------------------------
+José Carlos Somoza
+Przynęta
+dict_keys([])
+-------------------------------------------------------
+Jose Carlos Somoza
+Tetrameron
+dict_keys(['queen'])
+-------------------------------------------------------
+Jose Carlos Somoza
+Trzynasta dama
+dict_keys([])
+-------------------------------------------------------
+Jose Carlos Somoza
+Dafne znikająca
+dict_keys([])
+-------------------------------------------------------
+Jose Carlos Somoza
+Klara i półmrok
+dict_keys([])
+-------------------------------------------------------
+Larry Laudan;
+Science and Relativism
+dict_keys(['ice'])
+-------------------------------------------------------
+David P. Barash, Judith Eve Lipton
+Gender Gap
+dict_keys([])
+-------------------------------------------------------
+Philip Goff;
+Consciousness and Fundamental Reality
+dict_keys([])
+-------------------------------------------------------
+Red Pine
+The Diamond Sutra
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Terry Pratchett
+Długa Utopia
+dict_keys([])
+-------------------------------------------------------
+Terry Pratchett
+Długi Mars
+dict_keys([])
+-------------------------------------------------------
+Terry Pratchett
+Długi kosmos
+dict_keys([])
+-------------------------------------------------------
+Terry Pratchett
+Terry Pratchett
+Rocco J. Gennaro
+The Routledge Handbook of Consciousness
+dict_keys([])
+-------------------------------------------------------
+Jeremy Black
+France
+dict_keys(['ice'])
+-------------------------------------------------------
+Dawkins, Richard
+The God Delusion
+dict_keys(['air'])
+-------------------------------------------------------
+Dawkins, Richard
+The Extended Phenotype: The Long Reach of the Gene (Popular Science)
+dict_keys([])
+-------------------------------------------------------
+Johannes Krause
+A Short History of Humanity
+dict_keys(['ice', 'siberian', 'coffee', 'Siberia', 'air', 'cold'])
+-------------------------------------------------------
+Ron Kneusel
+Practical Deep Learning
+dict_keys([])
+-------------------------------------------------------
+Lucy Johnstone
+A Straight Talking Introduction to Psychiatric Diagnosis (Straight Talking Introductions)
+dict_keys([])
+-------------------------------------------------------
+Thomas Stephen Szasz
+Suicide Prohibition: The Shame of Medicine
+dict_keys(['air'])
+-------------------------------------------------------
+Hubert Dreyfus
+All Things Shining
+dict_keys(['breath', 'air'])
+-------------------------------------------------------
+Arthur Schopenhauer
+On the Fourfold Root of the Principle of Sufficient Reason and Other Writings
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+The World as Will and Representation, Vol. 2
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Arthur Schopenhauer
+The World as Will and Representation, Vol. 2
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Arthur Schopenhauer
+Schopenhauer: Parerga and Paralipomena: Volume 2
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+Schopenhauer: Parerga and Paralipomena: Volume 2
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+Schopenhauer: Parerga and Paralipomena: Volume 1: Short Philosophical Essays Volume 1 (The Cambridge Edition of the Works of Schopenhauer)
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+Schopenhauer: Parerga and Paralipomena: Volume 1: Short Philosophical Essays Volume 1 (The Cambridge Edition of the Works of Schopenhauer)
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+The Essential Schopenhauer
+dict_keys(['breath', 'cold'])
+-------------------------------------------------------
+Arthur Schopenhauer
+Schopenhauer: Parerga and Paralipomena: Volume 1: Short Philosophical Essays Volume 1 (The Cambridge Edition of the Works of Schopenhauer)
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+Delphi Collected Works of Arthur Schopenhauer (Illustrated)
+dict_keys(['breath'])
+-------------------------------------------------------
+Arthur Schopenhauer
+THE WORLD AS WILL AND IDEA
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+The World as Will and Representation, Vol. 1
+dict_keys([])
+-------------------------------------------------------
+Arthur Schopenhauer
+The Essays of Arthur Schopenhauer; Studies in Pessimism
+dict_keys(['cold', 'breath'])
+-------------------------------------------------------
+Tom Taulli
+Generative AI
+dict_keys([])
+-------------------------------------------------------
+Smith, Shawn;
+Pynchon and History
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Neil Feit
+Bad Things
+dict_keys([])
+-------------------------------------------------------
+Albert Einstein
+Essays in Humanism
+dict_keys(['breathing'])
+-------------------------------------------------------
+Albert Einstein
+Relativity: The Special and the General Theory
+dict_keys(['air'])
+-------------------------------------------------------
+Albert Einstein
+Essays in Science
+dict_keys(['air'])
+-------------------------------------------------------
+Stephen P. Ahearne-Kroll;
+The Oxford Handbook of the Synoptic Gospels
+dict_keys([])
+-------------------------------------------------------
+Hiroaki Sato
+On Haiku
+dict_keys(['ice', 'princess', 'cold', 'air'])
+-------------------------------------------------------
+Andrew S. Tanenbaum;Herbert Bos;
+Modern Operating Systems
+dict_keys([])
+-------------------------------------------------------
+Waller, Marguerite;Gubareva, Marita;Burke, Frank;
+A Companion to Federico Fellini
+dict_keys(['air'])
+-------------------------------------------------------
+Dr. Vadim J. Birstein
+The Perversion of Knowledge
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Graham Hancock
+Ślady palców Bogów
+dict_keys([])
+-------------------------------------------------------
+Graham Hancock
+Magowie Bogów
+dict_keys([])
+-------------------------------------------------------
+Brame, Gloria G.
+Come Hither: A Commonsense Guide To Kinky Sex
+dict_keys(['sucks'])
+-------------------------------------------------------
+Bryan Magee;
+Popper Cb
+dict_keys(['air'])
+-------------------------------------------------------
+J.R. James
+Let's Talk About... Non-Monogamy
+dict_keys(['oral sex'])
+-------------------------------------------------------
+Ben Bova
+The Science Fiction Hall of Fame, Volume Two B: The Greatest Science Fiction Novellas of All Time Chosen by the Members of the Science Fiction Writers of America
+dict_keys(['coffee', 'air'])
+-------------------------------------------------------
+Ben Bova
+The Science Fiction Hall of Fame, Volume Two A: The Greatest Science Fiction Novellas of All Time Chosen by the Members of the Science Fiction Writers of America
+dict_keys(['ice', 'frozen', 'breathing', 'throat', 'cold', 'air', 'chill'])
+-------------------------------------------------------
+Emma Jakoi
+Introductory Human Physiology
+dict_keys([])
+-------------------------------------------------------
+Wacher, John;
+The Roman World
+dict_keys(['air'])
+-------------------------------------------------------
+Walter Michael Miller
+Kantyczka dla Leibowitza
+dict_keys([])
+-------------------------------------------------------
+David Baker
+The Shortest History of Our Universe
+dict_keys(['cool', 'ice', 'coffee', 'air', 'cold'])
+-------------------------------------------------------
+David Baker
+Sex: Two billion years of procreation and recreation
+dict_keys(['breath', 'cold', 'suck', 'ice', 'frozen'])
+-------------------------------------------------------
+Richard Buxton
+Greek Myths & Tales
+dict_keys(['breath', 'queen'])
+-------------------------------------------------------
+Ian James Kidd;Jos Medina;Gaile Pohlhaus, Jr.;
+The Routledge Handbook of Epistemic Injustice
+dict_keys(['cold', 'breath'])
+-------------------------------------------------------
+Francesca Franco
+Generative Systems Art
+dict_keys([])
+-------------------------------------------------------
+Weiss, Burton A.;
+Natural Behavior
+dict_keys(['air'])
+-------------------------------------------------------
+Ira Greenberg
+Processing: Create Coding and Generative Art in Processing 2
+dict_keys(['ice', 'hockey', 'cool'])
+-------------------------------------------------------
+David Bather Woods;Timothy A Stoll;
+The Schopenhauerian Mind
+dict_keys(['air'])
+-------------------------------------------------------
+Harley Balzer
+Soviet Science On The Edge Of Reform
+dict_keys(['siberian'])
+-------------------------------------------------------
+Carroll, Noël
+The Philosophy of Horror, Or, Paradoxes of the Heart
+dict_keys([])
+-------------------------------------------------------
+Mary M. Wiles
+Jacques Rivette true epub
+dict_keys(['cold war', 'cold', 'princess'])
+-------------------------------------------------------
+J. Robert Thompson;
+The Routledge Handbook of Philosophy and Implicit Cognition
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Dever, William G.
+The Rise of Ancient Israel
+dict_keys([])
+-------------------------------------------------------
+Equity Press
+UNIX Shell Scripting Interview Questions, Answers, and Explanations: UNIX Shell Certification Review
+dict_keys([])
+-------------------------------------------------------
+Barbara Oakley
+Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying; A Guide for Kids and Teens
+dict_keys(['Antarctica'])
+-------------------------------------------------------
+Barbara Oakley
+Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+dict_keys(['breath'])
+-------------------------------------------------------
+Barbara Oakley
+A Mind For Numbers
+dict_keys(['throat', 'queen'])
+-------------------------------------------------------
+Christopher Tozzi
+For Fun and Profit: A History of the Free and Open Source Software Revolution
+dict_keys(['air', 'cold war', 'cold', 'cool'])
+-------------------------------------------------------
+Graham Harman
+Heidegger Explained
+dict_keys([])
+-------------------------------------------------------
+Jesse Bryant Wilde
+Historia sztuki dla bystrzaków
+dict_keys(['air'])
+-------------------------------------------------------
+Święta Ladacznica
+To tylko seks?!
+dict_keys([])
+-------------------------------------------------------
+Guy P. Harrison
+Think Before You Like: Social Media's Effect on the Brain and the Tools You Need to Navigate Your Newsfeed
+dict_keys(['suck', 'cool'])
+-------------------------------------------------------
+Guy P. Harrison
+50 Simple Questions for Every Christian
+dict_keys(['cold'])
+-------------------------------------------------------
+Guy P. Harrison
+50 Reasons People Give for Believing in a God
+dict_keys([])
+-------------------------------------------------------
+Guy P. Harrison
+At Least Know This
+dict_keys([])
+-------------------------------------------------------
+Guy P. Harrison
+Good Thinking
+dict_keys([])
+-------------------------------------------------------
+Jonah David Conner
+All That's Wrong with the Bible: Contradictions, Absurdities, and More
+dict_keys([])
+-------------------------------------------------------
+Robert Waldinger
+The Good Life
+dict_keys(['ice', 'coffee'])
+-------------------------------------------------------
+Ed Conway
+Material World
+dict_keys(['air', 'cold', 'cold war'])
+-------------------------------------------------------
+Zoltan Torey
+The Conscious Mind
+dict_keys(['air'])
+-------------------------------------------------------
+Dr. Dan Ariely
+Misbelief
+dict_keys([])
+-------------------------------------------------------
+Thomas Pynchon
+Mason i Dixon retail
+dict_keys([])
+-------------------------------------------------------
+Iwao Hirose;Jonas Olson;
+The Oxford Handbook of Value Theory
+dict_keys([])
+-------------------------------------------------------
+Mészáros, István
+The Work of Sartre
+dict_keys(['cold', 'cool'])
+-------------------------------------------------------
+Haldeman Joe
+Old Twentieth (2005)
+dict_keys(['cold', 'frozen', 'ice', 'cool'])
+-------------------------------------------------------
+Haldeman Joe
+None So Blind (1996)
+dict_keys(['coffee', 'breathing'])
+-------------------------------------------------------
+Haldeman Joe
+Tool of the Trade (1987)
+dict_keys(['air', 'throat', 'coffee'])
+-------------------------------------------------------
+Haldeman Joe
+The Coming (2000)
+dict_keys(['coffee', 'throat', 'breath'])
+-------------------------------------------------------
+Haldeman Joe
+Wieczna wojna - 03 - Wieczna wolność (1999)
+dict_keys([])
+-------------------------------------------------------
+Haldeman Joe
+Wieczna wojna - 02 - Wieczny pokój (1997)
+dict_keys([])
+-------------------------------------------------------
+Haldeman Joe
+Marsbound - 02 - Starbound (2010)
+dict_keys(['sucks', 'frozen', 'air', 'freeze', 'coffee'])
+-------------------------------------------------------
+Haldeman Joe
+Kamuflaż (2004)
+dict_keys([])
+-------------------------------------------------------
+Haldeman Joe
+Mindbridge (1976)
+dict_keys(['cold', 'coffee'])
+-------------------------------------------------------
+Haldeman Joe
+Guardian (2002)
+dict_keys(['air', 'coffee', 'cool', 'Antarctica'])
+-------------------------------------------------------
+Haldeman Joe
+Buying Time (1989)
+dict_keys(['breath'])
+-------------------------------------------------------
+Haldeman Joe
+Dealing in Futures (1985)
+dict_keys(['sucking', 'coffee', 'cafe', 'cold', 'frozen', 'suck', 'ice', 'air'])
+-------------------------------------------------------
+Haldeman Joe
+Wieczna wojna - 01 - Wieczna wojna (1974)
+dict_keys([])
+-------------------------------------------------------
+Haldeman Joe
+Marsbound - 01 - Marsbound (2008)
+dict_keys(['cool', 'air', 'breathing', 'cold'])
+-------------------------------------------------------
+Haldeman Joe
+The Accidental Time Machine (2007)
+dict_keys(['coffee', 'cold', 'cool', 'air', 'ice'])
+-------------------------------------------------------
+Haldeman Joe
+Tricentennial (1977)
+dict_keys(['air', 'breath', 'sucks', 'coffee'])
+-------------------------------------------------------
+Haldeman Joe
+A Separate War and Other Stories (2007)
+dict_keys(['arctic', 'ice', 'coffee', 'throat', 'breath', 'cold', 'air', 'cool'])
+-------------------------------------------------------
+Thomas Haigh
+A New History of Modern Computing
+dict_keys(['air'])
+-------------------------------------------------------
+Baynes, John
+Medical Biochemistry: with STUDENT CONSULT Online Access (Medial Biochemistry)
+dict_keys(['air'])
+-------------------------------------------------------
+Benjamin John Coleman
+Origami Bonsai
+dict_keys([])
+-------------------------------------------------------
+John Loftus
+Unapologetic
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+00. Nowa Wiosna
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+05. Ognie niebios
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+02. Wielkie polowanie
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+11. Gilotyna marzeń
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+01. Oko świata
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+04. Wschodzący Cień
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+09. Dech zimy
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+07. Korona Mieczy
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+08. Ścieżka sztyletów
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+06. Władca Chaosu
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+03. Smok Odrodzony
+dict_keys([])
+-------------------------------------------------------
+Robert Jordan
+10. Rozstaje zmierzchu
+dict_keys([])
+-------------------------------------------------------
+Wataru Tsurumi
+The Complete Manual of Suicide
+dict_keys(['cold', 'breathing', 'air', 'cool'])
+-------------------------------------------------------
+Raymond Bradley
+God's Gravediggers: Why no Deity Exists
+dict_keys(['queen', 'air'])
+-------------------------------------------------------
+Thomas, Mark
+Criminal Law
+dict_keys([])
+-------------------------------------------------------
+Heather Battaly
+The Routledge Handbook of Virtue Epistemology
+dict_keys([])
+-------------------------------------------------------
+James W Cortada
+Information and the Modern Corporation
+dict_keys(['coffee'])
+-------------------------------------------------------
+Thomas L. Thompson
+The Mythic Past
+dict_keys(['princess', 'queen'])
+-------------------------------------------------------
+Michael Fleming
+The Three Stooges: An Illustrated History, Amalgamated Morons to American Icons
+dict_keys(['ice', 'coffee', 'air', 'cold'])
+-------------------------------------------------------
+Ulrich Adelt
+Krautrock
+dict_keys(['coffee', 'cold war', 'cold', 'air'])
+-------------------------------------------------------
+Saifedean Ammous
+Principles of Economics
+dict_keys(['air'])
+-------------------------------------------------------
+Kate?ina Lochmanová
+History of Antinatalism: How Philosophy Has Challenged the Question of Procreation
+dict_keys([])
+-------------------------------------------------------
+Paula Fredriksen
+From Jesus to Christ: The Origins of the New Testament Images of Christ, Second Edition
+dict_keys([])
+-------------------------------------------------------
+Graham A Thomas
+The Dan Brown Enigma
+dict_keys(['throat'])
+-------------------------------------------------------
+Jan Meslier
+Testament
+dict_keys([])
+-------------------------------------------------------
+Melanie Fox
+Economics DeMYSTiFieD
+dict_keys(['coffee', 'air'])
+-------------------------------------------------------
+Robert Penn Warren
+Fundamentals of Good Writing - A Handbook of Modern Rhetoric
+dict_keys(['air'])
+-------------------------------------------------------
+Greg Carlisle
+Elegant Complexity: A Study of David Foster Wallace's Infinite Jest
+dict_keys(['frozen'])
+-------------------------------------------------------
+Josephus
+Complete Works of Josephus
+dict_keys(['cool', 'queen'])
+-------------------------------------------------------
+Jessica Riskin
+Genesis Redux
+dict_keys(['breath'])
+-------------------------------------------------------
+alasdair gilchrist
+ChatGPT won't Save the World
+dict_keys(['cool'])
+-------------------------------------------------------
+Friedrich Wilhelm Nietzsche
+Beyond Good and Evil: Prelude to a Philosophy of the Future
+dict_keys(['breath', 'cold', 'queen', 'air'])
+-------------------------------------------------------
+Elonka Dunin
+Codebreaking
+dict_keys(['queen'])
+-------------------------------------------------------
+Savaş Yıldırım
+Mastering Transformers
+dict_keys([])
+-------------------------------------------------------
+Pliny the Elder
+Complete Works of Pliny the Elder
+dict_keys(['air'])
+-------------------------------------------------------
+John Rawls
+Teoria sprawiedliwości
+dict_keys([])
+-------------------------------------------------------
+'Trick Slattery
+Breaking the Free Will Illusion for the Betterment of Humankind
+dict_keys(['ice'])
+-------------------------------------------------------
+Robert Whitaker
+Mad in America
+dict_keys(['air', 'chill', 'cold', 'queen', 'cool'])
+-------------------------------------------------------
+Robert Whitaker
+Psychiatry Under the Influence: Institutional Corruption, Social Injury, and Prescriptions for Reform
+dict_keys([])
+-------------------------------------------------------
+Robert Whitaker
+Anatomy of an Epidemic
+dict_keys([])
+-------------------------------------------------------
+Izabela Szylko
+Tajemnica siódmej księgi
+dict_keys([])
+-------------------------------------------------------
+Izabela Szylko
+Poszukiwacze siódmej księgi
+dict_keys([])
+-------------------------------------------------------
+Tamara Pincus
+It's Called "Polyamory"
+dict_keys([])
+-------------------------------------------------------
+SparkNotes
+Absalom, Absalom! (SparkNotes Literature Guide)
+dict_keys([])
+-------------------------------------------------------
+FAULKNER WILLIAM
+Absalomie, Absalomie...
+dict_keys([])
+-------------------------------------------------------
+Stephen Bullivant;Michael Ruse;
+The Oxford Handbook of Atheism
+dict_keys(['queen'])
+-------------------------------------------------------
+Karen Detlefsen;Lisa Shapiro;
+The Routledge Handbook of Women and Early Modern European Philosophy
+dict_keys(['princess', 'coffee'])
+-------------------------------------------------------
+Clark, Kelly James
+The Blackwell Companion to Naturalism
+dict_keys(['queen'])
+-------------------------------------------------------
+Louise Peacock;
+A Cultural History of Comedy in the Modern Age
+dict_keys([])
+-------------------------------------------------------
+Tim James
+Fundamentalnie
+dict_keys([])
+-------------------------------------------------------
+Burke, Jessica
+The Mythological Dimensions of Neil Gaiman
+dict_keys(['breath'])
+-------------------------------------------------------
+Jason Vale
+The Juice Master Juice Yourself Slim
+dict_keys(['ice'])
+-------------------------------------------------------
+George Fischer
+Science and Ideology in Soviet Society: 1917-1967
+dict_keys([])
+-------------------------------------------------------
+Alvin Boyd Kuhn
+Shadow of the Third Century
+dict_keys([])
+-------------------------------------------------------
+Alvin Boyd Kuhn
+The Lost Light
+dict_keys(['air', 'breath'])
+-------------------------------------------------------
+Himmelfarb, Gertrude.
+The Roads to Modernity
+dict_keys(['coffee'])
+-------------------------------------------------------
+James Francis
+The Art to Attracting Women.: The Ultimate Guide to Getting More Dates. Welcome to the ultimate guide to attracting women.
+dict_keys(['air'])
+-------------------------------------------------------
+Nathaniel Branden
+6 filarów poczucia własnej wartości
+dict_keys([])
+-------------------------------------------------------
+Benjamin Philips
+The Bible Book
+dict_keys(['queen', 'breath'])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 00 - Pierwsze spotkania w Świecie Endera (2002)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Cienia - 02 - Cień Hegemona (2001)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Cienia - 04 - Cień olbrzyma (2005)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Cienia - 01 - Cień Endera (1999)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 01 - Gra Endera (1985)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 03 - Ksenocyd (1991)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 05 - A War of Gifts: An Ender Story (2007)
+dict_keys(['cool'])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 02 - Mówca umarłych (1986)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 06 - Ender na wygnaniu (2008)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Endera - 04 - Dzieci umysłu (1996)
+dict_keys([])
+-------------------------------------------------------
+Card Orson Scott
+Saga Cienia - 03 - Teatr cieni (2002)
+dict_keys([])
+-------------------------------------------------------
+Shaun Gallagher;Dan Zahavi;
+The Phenomenological Mind
+dict_keys([])
+-------------------------------------------------------
+Andreas Anton
+Meeting the Alien
+dict_keys([])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 02 - Najemnik (1990)
+dict_keys([])
+-------------------------------------------------------
+Banks Iain M.
+The Algebraist (2004)
+dict_keys(['air', 'breath', 'breaths', 'frozen', 'ice', 'breathing', 'throat', 'sucking', 'cold'])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 04 - The State of the Art (1991)
+dict_keys(['cold', 'air', 'cool', 'throat'])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 05 - Excession (1996)
+dict_keys(['cool', 'air', 'breathing', 'throat'])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 06 - Inversions (1998)
+dict_keys(['cold', 'air', 'breathing', 'sucking'])
+-------------------------------------------------------
+Banks Iain M.
+Qpa strachu (1994)
+dict_keys([])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 01 - Wspomnij Phlebasa (1987)
+dict_keys([])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 07 - Look to Windward (2000)
+dict_keys(['air', 'ice'])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 03 - Gracz (1988)
+dict_keys([])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 09 - Surface Detail (2010)
+dict_keys(['air', 'breath', 'chill', 'breathing', 'cold'])
+-------------------------------------------------------
+Banks Iain M.
+Kultura - 08 - Matter (2008)
+dict_keys(['air', 'cool', 'breathing', 'princess', 'breath'])
+-------------------------------------------------------
+Max Born
+Einstein's Theory of Relativity
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+Judith Eve Lipton
+Strength Through Peace
+dict_keys(['coffee', 'breath', 'cold war', 'cold', 'Antarctica'])
+-------------------------------------------------------
+Ronald Planer
+From Signal to Symbol
+dict_keys([])
+-------------------------------------------------------
+David Sloan Wilson
+Darwin's Cathedral: Evolution, Religion, and the Nature of Society
+dict_keys(['air'])
+-------------------------------------------------------
+David Sloan Wilson
+This View of Life
+dict_keys(['ice', 'frozen'])
+-------------------------------------------------------
+Kimberly Truhler
+Film Noir Style
+dict_keys(['cold'])
+-------------------------------------------------------
+Shanna R. Van Slyke;Michael L. Benson;Francis T. Cullen;
+The Oxford Handbook of White-Collar Crime
+dict_keys([])
+-------------------------------------------------------
+Harvey Segler
+Learning: How To Become a Genius & Expert In Any Subject With Accelerated Learning (Accelerated Learning - Learn Faster -How To Learn - Make It Stick - Brain Training)
+dict_keys(['breaths'])
+-------------------------------------------------------
+Bryan Thomas Schmidt
+Beyond the Sun
+dict_keys(['ice', 'princess', 'throat', 'cold'])
+-------------------------------------------------------
+Bryan Thomas Schmidt
+Infinite Stars
+dict_keys(['breathing'])
+-------------------------------------------------------
+Bryan Thomas Schmidt
+Infinite Stars: Dark Frontiers
+dict_keys(['cold', 'air', 'coffee', 'breathing'])
+-------------------------------------------------------
+Niall Ferguson
+Cywilizacja
+dict_keys([])
+-------------------------------------------------------
+Ellison Ralph
+Niewidzialny człowiek
+dict_keys([])
+-------------------------------------------------------
+Kevin Grant
+Roots of Film Noir
+dict_keys(['air', 'cold war', 'cold'])
+-------------------------------------------------------
+John Grisham
+Jake Brigance 1 - Czas zabijania
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+Adept
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+9 Testament (1999)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+Wyspa Camino
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+20 Apelacja
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+11 Malowany dom
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+23 Kancelaria (2011)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+2 Raport pelikana (1992)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+26 Góra bezprawia (2014)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+3 Klient (1993)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+19 Zawodowiec (2007)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+10 Bractwo (2000)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+6 Ława przysięgłych
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+14 Król afer (2003)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+24 Calico Joe
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+18 Niewinny (2006)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+22 Zeznanie (2010)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+8 Obrońca ulicy(1998)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+15 Czuwanie (2003)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+Bar Pod Kogutem
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+27 Samotny wilk
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+17 Wielki Gracz (2005)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+7 The Partner
+dict_keys(['ice', 'breathing', 'cool', 'air'])
+-------------------------------------------------------
+John Grisham
+13 Wezwanie(2002)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+5 Zaklinacz deszczu(1995)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+4 Komora (1994)
+dict_keys(['coffee'])
+-------------------------------------------------------
+John Grisham
+21 Prawnik
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+1 Firma (1991)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+28 Demaskator
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+25 Więzienny prawnik
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+16 Ostatni sedzia (2004)
+dict_keys([])
+-------------------------------------------------------
+John Grisham
+Jake Brigance 2 - Czas zapłaty
+dict_keys(['coffee'])
+-------------------------------------------------------
+Colson Whitehead
+Kolej podziemna
+dict_keys([])
+-------------------------------------------------------
+Colson Whitehead
+Rytm Harlemu
+dict_keys([])
+-------------------------------------------------------
+Colson Whitehead
+Miedziaki
+dict_keys([])
+-------------------------------------------------------
+Robert Burton
+Anatomia melancholii
+dict_keys([])
+-------------------------------------------------------
+David Harvey
+A Companion to Marx's Capital
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Philip S. Thomas;
+In a Vision of the Night - Cormac McCarthy
+dict_keys(['breath', 'sucking'])
+-------------------------------------------------------
+André Bleikasten
+William Faulkner
+dict_keys(['cool'])
+-------------------------------------------------------
+Travis Newsome
+Dominoes Game Night
+dict_keys(['air', 'arctic', 'Siberia'])
+-------------------------------------------------------
+A. C. Grayling
+The Good Book
+dict_keys(['queen', 'air'])
+-------------------------------------------------------
+Peter Cowie
+God and the Devil: The Life and Work of Ingmar Bergman
+dict_keys(['queen', 'coffee', 'ice'])
+-------------------------------------------------------
+Erik J. Larson
+The Myth of Artificial Intelligence
+dict_keys(['air'])
+-------------------------------------------------------
+Keith E. Stanovich
+The Robot's Rebellion: Finding Meaning in the Age of Darwin
+dict_keys([])
+-------------------------------------------------------
+Keith E. Stanovich
+The Rationality Quotient
+dict_keys([])
+-------------------------------------------------------
+Bernardo Kastrup
+Science Ideated: The Fall of Matter and the Contours of the Next Mainstream Scientific Worldview
+dict_keys([])
+-------------------------------------------------------
+C.J. Cherryh
+Przybysz 2 - Najeźdźca
+dict_keys([])
+-------------------------------------------------------
+C.J. Cherryh
+Przybysz 4 - Prekursor
+dict_keys([])
+-------------------------------------------------------
+C.J. Cherryh
+Przybysz 1 - Przybysz
+dict_keys([])
+-------------------------------------------------------
+C.J. Cherryh
+Przybysz 3 Spadkobierca
+dict_keys([])
+-------------------------------------------------------
+Kitty Ferguson
+Stephen Hawking Quest for a Theory of the Universe
+dict_keys(['air', 'ice'])
+-------------------------------------------------------
+Andy Warhol
+The Philosophy of Andy Warhol
+dict_keys(['cold', 'air', 'throat'])
+-------------------------------------------------------
+Andy Warhol
+POPism
+dict_keys(['cold'])
+-------------------------------------------------------
+James Davison Hunter
+Science and the Good: The Tragic Quest for the Foundations of Morality (Foundational Questions in Science)
+dict_keys(['air'])
+-------------------------------------------------------
+Matteo Pasquinelli
+The Eye of the Master: A Social History of Artificial Intelligence
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+Mary Beard
+SPQR. Historia starożytnego Rzymu
+dict_keys([])
+-------------------------------------------------------
+Mary Beard
+How Do We Look / The Eye of Faith: As seen on TV
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Ronald W. Langacker;
+Cognitive Grammar
+dict_keys([])
+-------------------------------------------------------
+Margaret C. Jacob
+The Secular Enlightenment
+dict_keys(['cold', 'coffee'])
+-------------------------------------------------------
+Vincent T. Covello
+The Japanese Art of Stone Appreciation
+dict_keys(['frozen', 'cool'])
+-------------------------------------------------------
+Arnold Robbins
+Classic Shell Scripting
+dict_keys([])
+-------------------------------------------------------
+Derek H. Brown;Fiona Macpherson;
+The Routledge Handbook of Philosophy of Colour
+dict_keys([])
+-------------------------------------------------------
+Cicero
+Delphi Complete Works of Cicero
+dict_keys(['breathing'])
+-------------------------------------------------------
+Susan Schneider
+The Blackwell Companion to Consciousness
+dict_keys([])
+-------------------------------------------------------
+Susan Schneider
+The Language of Thought: A New Philosophical Direction (MIT Press)
+dict_keys(['air'])
+-------------------------------------------------------
+Claude Simon
+The Flanders Road
+dict_keys(['frozen', 'cold', 'coffee', 'air', 'sucking', 'breath', 'breathing', 'ice'])
+-------------------------------------------------------
+David Reich
+Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past
+dict_keys(['siberian', 'cold', 'ice'])
+-------------------------------------------------------
+William E Seager;
+The Routledge Handbook of Panpsychism
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+On Literature
+dict_keys(['cold', 'cool', 'air'])
+-------------------------------------------------------
+Umberto Eco
+Jak podróżować z łososiem
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+The Limits of Interpretation
+dict_keys(['cold'])
+-------------------------------------------------------
+Umberto Eco
+Pape Satàn aleppe. Kroniki płynnego społeczeństw
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+How to Write a Thesis
+dict_keys(['cold'])
+-------------------------------------------------------
+Umberto Eco
+Imię róży. Wydanie poprawione przez autora
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+On the Shoulders of Giants
+dict_keys(['throat', 'air', 'ice'])
+-------------------------------------------------------
+Umberto Eco
+W co wierzy ten, kto nie wierzy?
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+Cmentarz w Pradze
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+Temat na pierwszą stronę
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+Wyspa dnia poprzedniego
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+A Theory of Semiotics
+dict_keys(['breathing'])
+-------------------------------------------------------
+Umberto Eco
+Baudolino
+dict_keys([])
+-------------------------------------------------------
+Umberto Eco
+Travels in Hyperreality
+dict_keys(['coffee', 'chill'])
+-------------------------------------------------------
+Umberto Eco
+Mój 1968. Po drugiej stronie muru
+dict_keys([])
+-------------------------------------------------------
+Max Hastings
+Tajna wojna 1939-1945. Szpiedzy, szyfry i partyzanci
+dict_keys([])
+-------------------------------------------------------
+Chat-GPT
+Chat-GPT & AI Technology Application for Students
+dict_keys([])
+-------------------------------------------------------
+Annie Murphy Paul
+The Extended Mind
+dict_keys(['air', 'breath'])
+-------------------------------------------------------
+Robert Pinget
+Trio
+dict_keys(['frozen', 'cold', 'breathing'])
+-------------------------------------------------------
+Soggie, Neil A.;
+Logotherapy
+dict_keys(['coffee', 'cafe'])
+-------------------------------------------------------
+Martin Sauter
+From GSM to LTE-Advanced Pro and 5G
+dict_keys(['air'])
+-------------------------------------------------------
+Liz Wells;
+Photography
+dict_keys(['Antarctica'])
+-------------------------------------------------------
+Deschner Karlheinz
+Kryminalna historia chrześcijaństwa (tom 5)
+dict_keys([])
+-------------------------------------------------------
+Jay A. Kreibich
+Using SQLite
+dict_keys(['coffee'])
+-------------------------------------------------------
+Walter M. Miller Jr.
+Święty Leibowitz i Dzikokonna
+dict_keys([])
+-------------------------------------------------------
+Michael Klastorin
+Close Encounters of the Third Kind
+dict_keys(['air', 'cold war', 'cold'])
+-------------------------------------------------------
+Coyne, Jerry A.
+Faith vs Fact : Why Science and Religion Are Incompatible
+dict_keys([])
+-------------------------------------------------------
+J. Peder Zane
+The Top Ten
+dict_keys(['throat', 'breath', 'air'])
+-------------------------------------------------------
+Michael S. Gazzaniga
+The Mind's Past
+dict_keys(['breathing'])
+-------------------------------------------------------
+Nigel Benson
+The Psychology Book (Big Ideas Simply Explained)
+dict_keys(['cold', 'air', 'cool', 'queen'])
+-------------------------------------------------------
+No właśnie co
+Beckett Samuel
+dict_keys([])
+-------------------------------------------------------
+Gary Cox
+Existentialism and Excess: The Life and Times of Jean-Paul Sartre
+dict_keys(['air', 'cold'])
+-------------------------------------------------------
+Frank Close
+Elusive
+dict_keys(['ice', 'air'])
+-------------------------------------------------------
+Frank Close
+Theories of Everything
+dict_keys(['cold', 'air'])
+-------------------------------------------------------
+Keith E Stanovich
+What Intelligence Tests Miss
+dict_keys(['air'])
+-------------------------------------------------------
+Joshua Sikora;
+A Critical Companion to Terrence Malick
+dict_keys([])
+-------------------------------------------------------
+Leo Tolstoy
+A Confession
+dict_keys(['air', 'suck'])
+-------------------------------------------------------
+Victoria Roche
+Foye's Principles of Medicinal Chemistry
+dict_keys([])
+-------------------------------------------------------
+Ed Sikov
+Film Studies
+dict_keys(['air'])
+-------------------------------------------------------
+Markus Schrenk
+Metaphysics of Science
+dict_keys(['queen'])
+-------------------------------------------------------
+Watson, Peter
+The Age of Atheists: How We Have Sought to Live Since the Death of God
+dict_keys(['cold'])
+-------------------------------------------------------
+László Krasznahorkai
+A Mountain to the North, a Lake to the South, Paths to the West, a River to the East
+dict_keys(['air', 'ice', 'cold', 'frozen', 'breath', 'breathing', 'breaths', 'cool', 'throat'])
+-------------------------------------------------------
+László Krasznahorkai
+Spadework for a Palace
+dict_keys(['cold', 'air', 'frozen', 'breath', 'ice', 'freeze', 'cool'])
+-------------------------------------------------------
+László Krasznahorkai
+Les Harmonies Werckmeister - Scénario du film
+dict_keys(['air'])
+-------------------------------------------------------
+Yoav Di-Capua
+No Exit
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+LaFollette, Hugh
+Ethics in Practice
+dict_keys([])
+-------------------------------------------------------
+Timothy Corrigan
+The Film Experience
+dict_keys([])
+-------------------------------------------------------
+GAIMAN NEIL
+Ksiega cmentarna
+dict_keys([])
+-------------------------------------------------------
+None
+Higgs:The invention and discovery of the 'God Particle'
+dict_keys(['air', 'ice', 'cold'])
+-------------------------------------------------------
+William Faulkner
+Przypowieść
+dict_keys([])
+-------------------------------------------------------
+William Faulkner
+Koniokrady
+dict_keys([])
+-------------------------------------------------------
+Dan Barker
+God: The Most Unpleasant Character in All Fiction
+dict_keys(['breath'])
+-------------------------------------------------------
+Dan Barker
+The Good Atheist
+dict_keys(['air'])
+-------------------------------------------------------
+Dan Barker
+Godless: How an Evangelical Preacher Became One of America's Leading Atheists
+dict_keys(['breathing'])
+-------------------------------------------------------
+Dan Barker
+God 2nd ed. 2023
+dict_keys(['breath'])
+-------------------------------------------------------
+Peter N. Stearns
+Shame: A Brief History
+dict_keys([])
+-------------------------------------------------------
+Valery Rees
+From Gabriel to Lucifer
+dict_keys(['ice'])
+-------------------------------------------------------
+Templar, Richard
+The Rules of Thinking
+dict_keys(['cold', 'suck', 'air'])
+-------------------------------------------------------
+Guest, Kenneth J.
+Cultural Anthropology: A Toolkit for a Global Age (Third Edition)
+dict_keys([])
+-------------------------------------------------------
+Yuzuru Miura
+Classic Haiku
+dict_keys(['cold', 'suck', 'cool', 'breath'])
+-------------------------------------------------------
+Mike Ohlson de Fine
+Python 2.6 Graphics Cookbook
+dict_keys(['freeze'])
+-------------------------------------------------------
+B. Parnas, David
+TOP-50 MOST IMPORTANT SQL QUERIES: How to Use SQL To Work With Data In A Relational Database Today. (SQL Skills Book 1)
+dict_keys([])
+-------------------------------------------------------
+Joseph Bristow;
+Extraordinary Aesthetes
+dict_keys(['air', 'princess'])
+-------------------------------------------------------
+Werner Linde
+Probability Theory
+dict_keys([])
+-------------------------------------------------------
+Utpal Chakraborty, Soumyadeep Roy, Sumit Kumar;
+Rise of Generative AI and ChatGPT
+dict_keys([])
+-------------------------------------------------------
+Farah Focquaert;Elizabeth Shaw;Bruce N. Waller;
+The Routledge Handbook of the Philosophy and Science of Punishment
+dict_keys([])
+-------------------------------------------------------
+Patrick King
+The Science of Attraction
+dict_keys(['cold', 'suck'])
+-------------------------------------------------------
+Marcin Karbowski
+Podstawy kryptografii. Wydanie III.
+dict_keys([])
+-------------------------------------------------------
+Benoît Vermander
+The Encounter of Chinese and Western Philosophies
+dict_keys(['breathing', 'breath', 'breaths', 'cold'])
+-------------------------------------------------------
+Dedeker Winston
+The Smart Girl's Guide to Polyamory
+dict_keys([])
+-------------------------------------------------------
+Birgit Beumers
+Aleksandr Sokurov: Russian Ark
+dict_keys(['air', 'breathing', 'breath', 'coffee', 'frozen', 'cold war', 'cold', 'chill'])
+-------------------------------------------------------
+Chapman, Honora Howell; Rodgers, Zuleika; 
+A Companion to Josephus
+dict_keys([])
+-------------------------------------------------------
+James Davies
+Cracked
+dict_keys(['air', 'cold', 'throat'])
+-------------------------------------------------------
+Rafał Tomański
+Piekło - Niebo. Zrozumieć Koreę
+dict_keys([])
+-------------------------------------------------------
+Garry Potter
+The Philosophy of Social Science
+dict_keys([])
+-------------------------------------------------------
+Andrew Leak
+Jean-Paul Sartre
+dict_keys(['coffee'])
+-------------------------------------------------------
+George A. Bonanno
+The End of Trauma
+dict_keys(['cold', 'frozen', 'breath', 'air'])
+-------------------------------------------------------
+Mary Tiles
+The Philosophy of Set Theory
+dict_keys([])
+-------------------------------------------------------
+Joanne Cormac
+30-Second Classical Music
+dict_keys(['queen'])
+-------------------------------------------------------
+Ejeke, Patrick
+Discord
+dict_keys(['cool'])
+-------------------------------------------------------
+Alan Connor
+The Joy of Quiz
+dict_keys(['air', 'queen', 'hockey', 'chill', 'cool'])
+-------------------------------------------------------
+Rupal Patel
+Can't We Just Print More Money?
+dict_keys(['coffee'])
+-------------------------------------------------------
+Kuzminski, Adrian
+Pyrrhonism
+dict_keys([])
+-------------------------------------------------------
+Radu Nicoara
+How to be a Web Developer
+dict_keys([])
+-------------------------------------------------------
+William Doyle
+The French Revolution: A Very Short Introduction by Doyle, William (2001) Paperback
+dict_keys(['queen', 'breath', 'coffee', 'princess'])
+-------------------------------------------------------
+Sylvia Moestl Vasilik
+SQL Practice Problems: 57 beginning, intermediate, and advanced challenges for you to solve using a "learn-by-doing" approach
+dict_keys([])
+-------------------------------------------------------
+Christopher Bartley
+An Introduction to Indian Philosophy
+dict_keys(['breath'])
+-------------------------------------------------------
+Peter Suber
+Open Access
+dict_keys([])
+-------------------------------------------------------
+Guignon, Charles B.
+The Existentialists
+dict_keys([])
+-------------------------------------------------------
+Brian Cox, Jeff Forshaw
+Kwantowy Wszechświat. Dlaczego zdarza się wszystko, co może się zdarzyć
+dict_keys([])
+-------------------------------------------------------
+Aho, Alfred V., Kernighan, Brian W., Weinberger, Peter J.
+The AWK Programming Language RETAIL
+dict_keys([])
+-------------------------------------------------------
+Prosanta Chakrabarty
+Explaining Life Through Evolution
+dict_keys(['cool', 'cold'])
+-------------------------------------------------------
+Philip Goff
+Why? the Purpose of the Universe
+dict_keys(['ice', 'cold', 'queen'])
+-------------------------------------------------------
+Philip Goff
+Galileo's Error
+dict_keys(['coffee', 'air'])
+-------------------------------------------------------
+Robert Jordan, Teresa Patterson
+Koło Czasu - Przewodnik
+dict_keys([])
+-------------------------------------------------------
+Katharine J. Dell;
+The Biblical World
+dict_keys(['queen'])
+-------------------------------------------------------
+John Cunningham
+The Cinema of István Szabó
+dict_keys(['cold war', 'cold', 'ice', 'coffee', 'air'])
+-------------------------------------------------------
+Bruce N. Waller
+The Stubborn System of Moral Responsibility (MIT Press)
+dict_keys([])
+-------------------------------------------------------
+Alberto Castelli;
+The Modernity of Chinese Postmodern Literature
+dict_keys(['cold war', 'cold'])
+-------------------------------------------------------
+George H. Smith
+Atheism
+dict_keys([])
+-------------------------------------------------------
+George H. Smith
+Atheism
+dict_keys([])
+-------------------------------------------------------
+Ken Napzok
+Why We Love Star Wars
+dict_keys(['queen', 'breath', 'frozen', 'princess'])
+-------------------------------------------------------
+Timothy Snyder
+Amerykańska choroba. Szpitalne zapiski o wolności
+dict_keys([])
+-------------------------------------------------------
+Stephen Hawking; Leonard Mlodinow
+The Grand Design
+dict_keys(['air'])
+-------------------------------------------------------
+Gideon Baker
+Nihilism and Philosophy: Nothingness, Truth and World
+dict_keys(['freeze', 'frozen'])
+-------------------------------------------------------
+Barash Ph.D., David P.
+The Survival Game: How Game Theory Explains the Biology of Cooperation and Competition
+dict_keys(['breathing', 'cold', 'air', 'cool'])
+-------------------------------------------------------
+Barash Ph.D., David P.
+The Survival Game: How Game Theory Explains the Biology of Cooperation and Competition
+dict_keys(['breathing', 'cold', 'air', 'cool'])
+-------------------------------------------------------
+Nietzsche, Friedrich
+Man Alone with Himself (Penguin Great Ideas)
+dict_keys([])
+-------------------------------------------------------
+David Oliver Smith;
+Matthew, Mark, Luke, and Paul
+dict_keys([])
+-------------------------------------------------------
+Ruth Chang;Kurt Sylvan;
+The Routledge Handbook of Practical Reason
+dict_keys(['cool'])
+-------------------------------------------------------
+Miller, Alexander
+Contemporary Metaethics
+dict_keys([])
+-------------------------------------------------------
+Mohanty, Sachi Nandan;Aluvalu, Rajanikanth;Mohanty, Sarita;
+Evolution and Applications of Quantum Computing
+dict_keys([])
+-------------------------------------------------------
+Ruth Williams
+C. G. Jung
+dict_keys(['queen'])
+-------------------------------------------------------
+Richard Blum
+Linux® Command Line and Shell Scripting BIBLE
+dict_keys([])
+-------------------------------------------------------
+Austin Eovito
+Language Models in Plain English
+dict_keys(['air', 'cold', 'queen', 'sucks'])
+-------------------------------------------------------
+Mikołaj Gogol
+Martwe dusze
+dict_keys([])
+-------------------------------------------------------
+Flint, Colin
+Introduction to Geopolitics
+dict_keys(['arctic', 'ice', 'coffee', 'cold war', 'cold'])
+-------------------------------------------------------
+Dennis Yi Tenen
+Literary Theory for Robots
+dict_keys(['cold', 'cold war'])
+-------------------------------------------------------
+McDougall, John, MD
+The Starch Solution
+dict_keys(['queen'])
+-------------------------------------------------------
+John Palfrey
+Intellectual Property Strategy
+dict_keys(['coffee', 'princess'])
+-------------------------------------------------------
+Chuang Tzu
+The Book of Chuang Tzu
+dict_keys(['breath', 'cool', 'ice', 'cold', 'throat'])
+-------------------------------------------------------
+Benton, Michael J.;
+History of Life
+dict_keys(['cold war', 'cold', 'breathing', 'coffee', 'air', 'cool'])
+-------------------------------------------------------
+Lorenz, Konrad
+Man Meets Dog
+dict_keys(['breathing', 'throat', 'suck', 'cold'])
+-------------------------------------------------------
+Lorenz, Konrad
+King Solomon's Ring
+dict_keys(['air', 'cold', 'breathing', 'cool'])
+-------------------------------------------------------
+Agatha Christie
+Panna Marple 8 - Tajemnica gwiazdkowego puddingu
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Panna Marple 1 - Morderstwo Na Plebanii
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Panna Marple 6 - Morderstwo odbędzie się
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Herkules Poirot 11 - A.B.C.
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Panna Marple 13 - Kieszeń pełna żyta
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Panna Marple 7 - 4.50 z Paddington
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Panna Marple 12 - Strzały w Stonygates
+dict_keys([])
+-------------------------------------------------------
+Agatha Christie
+Tajemnica gwiazdkowego puddingu
+dict_keys([])
+-------------------------------------------------------
